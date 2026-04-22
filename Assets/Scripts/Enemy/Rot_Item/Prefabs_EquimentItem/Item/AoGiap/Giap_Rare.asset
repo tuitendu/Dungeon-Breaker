@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42d789335925d6b4bba248b24097f570, type: 3}
+  m_Name: Giap_Rare
+  m_EditorClassIdentifier: Assembly-CSharp::EquipmentItemData
+  id: Giap_03_Rare
+  itemName: Giap_Rare
+  icon: {fileID: -4737426781762327817, guid: 3f9d29317582bf64a90bdae367c1061c, type: 3}
+  itemType: 2
+  rarity: 2
+  description: "Trang b\u1ECB"
+  stackable: 0
+  maxStack: 36
+  sellPrice: 10
+  equipSlot: 2
+  hpBonus: 0
+  hpRegenPctBonus: 0
+  mpBonus: 0
+  mpRegenPctBonus: 0
+  atkBonus: 0
+  matkBonus: 0
+  defBonus: 12
+  mdefBonus: 12
+  critRateBonus: 0
+  speedBonus: 0

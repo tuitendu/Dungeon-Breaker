@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 9c1cafc03050e9c4c879f6af7d7e9b40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6412593694868277575
+    second: Rat3_Run_without_shadow_0
+  - first:
+      213: -5224726577012666995
+    second: Rat3_Run_without_shadow_1
+  - first:
+      213: -5524697914711665997
+    second: Rat3_Run_without_shadow_2
+  - first:
+      213: -1799202740316976462
+    second: Rat3_Run_without_shadow_3
+  - first:
+      213: 398649490760336316
+    second: Rat3_Run_without_shadow_4
+  - first:
+      213: -4395249168062152197
+    second: Rat3_Run_without_shadow_5
+  - first:
+      213: 3183931052106004993
+    second: Rat3_Run_without_shadow_6
+  - first:
+      213: -6696989700620907789
+    second: Rat3_Run_without_shadow_7
+  - first:
+      213: -6666893389020471002
+    second: Rat3_Run_without_shadow_8
+  - first:
+      213: 1667624832425876732
+    second: Rat3_Run_without_shadow_9
+  - first:
+      213: -4938862666627023468
+    second: Rat3_Run_without_shadow_10
+  - first:
+      213: -8253586684662140181
+    second: Rat3_Run_without_shadow_11
+  - first:
+      213: -181560062954378965
+    second: Rat3_Run_without_shadow_12
+  - first:
+      213: -1467925221460959180
+    second: Rat3_Run_without_shadow_13
+  - first:
+      213: -57029102420573972
+    second: Rat3_Run_without_shadow_14
+  - first:
+      213: -8738116088876680199
+    second: Rat3_Run_without_shadow_15
+  - first:
+      213: -4552892901493199290
+    second: Rat3_Run_without_shadow_16
+  - first:
+      213: -3664660679891764003
+    second: Rat3_Run_without_shadow_17
+  - first:
+      213: 147823871952899013
+    second: Rat3_Run_without_shadow_18
+  - first:
+      213: 8575527163118237149
+    second: Rat3_Run_without_shadow_19
+  - first:
+      213: -6934823264212879303
+    second: Rat3_Run_without_shadow_20
+  - first:
+      213: 835870731119206784
+    second: Rat3_Run_without_shadow_21
+  - first:
+      213: 7578532226564031463
+    second: Rat3_Run_without_shadow_22
+  - first:
+      213: -4922974005002262561
+    second: Rat3_Run_without_shadow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 434
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74988877dfb1ef850800000000000000
+      internalID: 6412593694868277575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 436
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d0e982cda0e77b0800000000000000
+      internalID: -5224726577012666995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 448
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2154684845453b0800000000000000
+      internalID: -5524697914711665997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 444
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba4f78e3a2f707e0800000000000000
+      internalID: -1799202740316976462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 435
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb309a68999488500800000000000000
+      internalID: 398649490760336316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 435
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1035e2b20f003c0800000000000000
+      internalID: -4395249168062152197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 313
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a3d163c689f2c20800000000000000
+      internalID: 3183931052106004993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 303
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa8a0679538f03a0800000000000000
+      internalID: -6696989700620907789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 304
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621e80019cf6a73a0800000000000000
+      internalID: -6666893389020471002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 305
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc5d5b13f7942710800000000000000
+      internalID: 1667624832425876732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 312
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49df1496292a57bb0800000000000000
+      internalID: -4938862666627023468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 316
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2b1d1c3ae557d80800000000000000
+      internalID: -8253586684662140181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 183
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29e43ea518fa7df0800000000000000
+      internalID: -181560062954378965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 183
+        width: 67
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430abf9d9c1e0abe0800000000000000
+      internalID: -1467925221460959180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 183
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0cc506554653ff0800000000000000
+      internalID: -57029102420573972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 183
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb3164b6b9fbb680800000000000000
+      internalID: -8738116088876680199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 182
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ea9124700e0d0c0800000000000000
+      internalID: -4552892901493199290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 181
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcb5b02782842dc0800000000000000
+      internalID: -3664660679891764003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 55
+        width: 65
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb4311470d2d0200800000000000000
+      internalID: 147823871952899013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 55
+        width: 67
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5306f0584620770800000000000000
+      internalID: 8575527163118237149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 55
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938f974cbfe82cf90800000000000000
+      internalID: -6934823264212879303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 55
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081a186500c999b00800000000000000
+      internalID: 835870731119206784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 54
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3033348ea5c2960800000000000000
+      internalID: 7578532226564031463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_without_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 53
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7ab59b9351eabb0800000000000000
+      internalID: -4922974005002262561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat3_Run_without_shadow_0: 6412593694868277575
+      Rat3_Run_without_shadow_1: -5224726577012666995
+      Rat3_Run_without_shadow_10: -4938862666627023468
+      Rat3_Run_without_shadow_11: -8253586684662140181
+      Rat3_Run_without_shadow_12: -181560062954378965
+      Rat3_Run_without_shadow_13: -1467925221460959180
+      Rat3_Run_without_shadow_14: -57029102420573972
+      Rat3_Run_without_shadow_15: -8738116088876680199
+      Rat3_Run_without_shadow_16: -4552892901493199290
+      Rat3_Run_without_shadow_17: -3664660679891764003
+      Rat3_Run_without_shadow_18: 147823871952899013
+      Rat3_Run_without_shadow_19: 8575527163118237149
+      Rat3_Run_without_shadow_2: -5524697914711665997
+      Rat3_Run_without_shadow_20: -6934823264212879303
+      Rat3_Run_without_shadow_21: 835870731119206784
+      Rat3_Run_without_shadow_22: 7578532226564031463
+      Rat3_Run_without_shadow_23: -4922974005002262561
+      Rat3_Run_without_shadow_3: -1799202740316976462
+      Rat3_Run_without_shadow_4: 398649490760336316
+      Rat3_Run_without_shadow_5: -4395249168062152197
+      Rat3_Run_without_shadow_6: 3183931052106004993
+      Rat3_Run_without_shadow_7: -6696989700620907789
+      Rat3_Run_without_shadow_8: -6666893389020471002
+      Rat3_Run_without_shadow_9: 1667624832425876732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 36bc13885eed15b40b2fe9643ca7bba1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3028562360314672157
+    second: Water_coasts1_0
+  - first:
+      213: 8999537920679477135
+    second: Water_coasts1_1
+  - first:
+      213: 3220432752019299621
+    second: Water_coasts1_2
+  - first:
+      213: -5263906186173445315
+    second: Water_coasts1_3
+  - first:
+      213: 6230286449236877628
+    second: Water_coasts1_4
+  - first:
+      213: 3401464696367039924
+    second: Water_coasts1_5
+  - first:
+      213: 5917588200680284265
+    second: Water_coasts1_6
+  - first:
+      213: -1669748587133263069
+    second: Water_coasts1_7
+  - first:
+      213: -2775429167876640434
+    second: Water_coasts1_8
+  - first:
+      213: 7694900273099252643
+    second: Water_coasts1_9
+  - first:
+      213: -8369330935851706244
+    second: Water_coasts1_10
+  - first:
+      213: 8090138270018786963
+    second: Water_coasts1_11
+  - first:
+      213: 7185696731548474523
+    second: Water_coasts1_12
+  - first:
+      213: 2312960001486539043
+    second: Water_coasts1_13
+  - first:
+      213: 4486885346925478387
+    second: Water_coasts1_14
+  - first:
+      213: 3561759462446907163
+    second: Water_coasts1_15
+  - first:
+      213: 3578447898240667516
+    second: Water_coasts1_16
+  - first:
+      213: -765286550434059894
+    second: Water_coasts1_17
+  - first:
+      213: 5570081763784174340
+    second: Water_coasts1_18
+  - first:
+      213: 3640762758973667272
+    second: Water_coasts1_19
+  - first:
+      213: -2560158202010273236
+    second: Water_coasts1_20
+  - first:
+      213: -5885704742720434455
+    second: Water_coasts1_21
+  - first:
+      213: -4628578343310233752
+    second: Water_coasts1_22
+  - first:
+      213: 1067474356374564203
+    second: Water_coasts1_23
+  - first:
+      213: -5047788599112085354
+    second: Water_coasts1_24
+  - first:
+      213: -916416393927898785
+    second: Water_coasts1_25
+  - first:
+      213: -8621318604847222213
+    second: Water_coasts1_26
+  - first:
+      213: 5681300971581046626
+    second: Water_coasts1_27
+  - first:
+      213: 3700191545662732019
+    second: Water_coasts1_28
+  - first:
+      213: 4962221637822016590
+    second: Water_coasts1_29
+  - first:
+      213: -7455106791679675390
+    second: Water_coasts1_30
+  - first:
+      213: 8490270861137718574
+    second: Water_coasts1_31
+  - first:
+      213: -342107462819019073
+    second: Water_coasts1_32
+  - first:
+      213: 1578203361557069924
+    second: Water_coasts1_33
+  - first:
+      213: 2620889512013628301
+    second: Water_coasts1_34
+  - first:
+      213: 5301543023765579009
+    second: Water_coasts1_35
+  - first:
+      213: 6869448684195560663
+    second: Water_coasts1_36
+  - first:
+      213: -9092859384027077986
+    second: Water_coasts1_37
+  - first:
+      213: 5465980687266059720
+    second: Water_coasts1_38
+  - first:
+      213: -1089810475596292711
+    second: Water_coasts1_39
+  - first:
+      213: -2282060300992716922
+    second: Water_coasts1_40
+  - first:
+      213: 6714395189097966977
+    second: Water_coasts1_41
+  - first:
+      213: 536987648705442122
+    second: Water_coasts1_42
+  - first:
+      213: -6158282308120133721
+    second: Water_coasts1_43
+  - first:
+      213: 6642049738696200321
+    second: Water_coasts1_44
+  - first:
+      213: 6568865227303311885
+    second: Water_coasts1_45
+  - first:
+      213: -7849610718563144661
+    second: Water_coasts1_46
+  - first:
+      213: -416019387254581567
+    second: Water_coasts1_47
+  - first:
+      213: -6422263073221294968
+    second: Water_coasts1_48
+  - first:
+      213: -308855629229568907
+    second: Water_coasts1_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water_coasts1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 413
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb435d449268f5d0800000000000000
+      internalID: -3028562360314672157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 399
+        width: 178
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ff1c8ae08c4ec70800000000000000
+      internalID: 8999537920679477135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 431
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd42f768641bc20800000000000000
+      internalID: 3220432752019299621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 446
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b862a8639d2f6b0800000000000000
+      internalID: -5263906186173445315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 431
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31a1bf148c667650800000000000000
+      internalID: 6230286449236877628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 431
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b54dfe9e1e643f20800000000000000
+      internalID: 3401464696367039924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 446
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9606794ad1f7f1250800000000000000
+      internalID: 5917588200680284265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 399
+        width: 146
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32326b7b18cd3d8e0800000000000000
+      internalID: -1669748587133263069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 331
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41747d60e1bb79d0800000000000000
+      internalID: -2775429167876640434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 319
+        width: 178
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a323207707c9ca60800000000000000
+      internalID: 7694900273099252643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 351
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c781fd04bd92adb80800000000000000
+      internalID: -8369330935851706244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 365
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3965348a4e1f54070800000000000000
+      internalID: 8090138270018786963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 351
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cd1ab1b19b8b360800000000000000
+      internalID: 7185696731548474523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_13
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 351
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329ca44edd8491020800000000000000
+      internalID: 2312960001486539043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_14
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 365
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f10663537e944e30800000000000000
+      internalID: 4486885346925478387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 319
+        width: 146
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fb88e2c59ed6130800000000000000
+      internalID: 3561759462446907163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 252
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fc0ed676339a130800000000000000
+      internalID: 3578447898240667516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 239
+        width: 178
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a896ef1efe72165f0800000000000000
+      internalID: -765286550434059894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 271
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bac344ad7ec4d40800000000000000
+      internalID: 5570081763784174340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_19
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 284
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7b8109076968230800000000000000
+      internalID: 3640762758973667272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 271
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2aff58fdad787cd0800000000000000
+      internalID: -2560158202010273236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_21
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 271
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee015568b6c15ea0800000000000000
+      internalID: -5885704742720434455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 284
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f6def158cf3cfb0800000000000000
+      internalID: -4628578343310233752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 239
+        width: 146
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d6b8a754e60de00800000000000000
+      internalID: 1067474356374564203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 171
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69058a07307a2f9b0800000000000000
+      internalID: -5047788599112085354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 178
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f594595252c3843f0800000000000000
+      internalID: -916416393927898785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b327d96186cea5880800000000000000
+      internalID: -8621318604847222213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 205
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f7b21022908de40800000000000000
+      internalID: 5681300971581046626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f671283b98b95330800000000000000
+      internalID: 3700191545662732019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 191
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c6323e94a5dd440800000000000000
+      internalID: 4962221637822016590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_30
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 205
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204b45f2fd32a8890800000000000000
+      internalID: -7455106791679675390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 159
+        width: 146
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2da6f46d5083d570800000000000000
+      internalID: 8490270861137718574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb689ab3317904bf0800000000000000
+      internalID: -342107462819019073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 92
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460cfec7897e6e510800000000000000
+      internalID: 1578203361557069924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 178
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d838e1700254f5420800000000000000
+      internalID: 2620889512013628301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 111
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1056ff49a4dd29940800000000000000
+      internalID: 5301543023765579009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 125
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc3040be2f255f50800000000000000
+      internalID: 6869448684195560663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_37
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e922d76f09cafc180800000000000000
+      internalID: -9092859384027077986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 125
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c593ad99701bdb40800000000000000
+      internalID: 5465980687266059720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 111
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d5591852730e0f0800000000000000
+      internalID: -1089810475596292711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_40
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 111
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fde434f3e7450e0800000000000000
+      internalID: -2282060300992716922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 79
+        width: 146
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18da6cf99d25e2d50800000000000000
+      internalID: 6714395189097966977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 13
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a413cd1eb63c37700800000000000000
+      internalID: 536987648705442122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 178
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af3de56ed2698aa0800000000000000
+      internalID: -6158282308120133721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 31
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1809677db0d4d2c50800000000000000
+      internalID: 6642049738696200321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_45
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 46
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a54d2fe1c492b50800000000000000
+      internalID: 6568865227303311885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_46
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 31
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ce1f6f3a4901390800000000000000
+      internalID: -7849610718563144661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_47
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 31
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d30b42900a3af0800000000000000
+      internalID: -416019387254581567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_48
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 46
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8844982f2c98fd6a0800000000000000
+      internalID: -6422263073221294968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_coasts1_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 146
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c44ec0179b6bbf0800000000000000
+      internalID: -308855629229568907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Water_coasts1_0: -3028562360314672157
+      Water_coasts1_1: 8999537920679477135
+      Water_coasts1_10: -8369330935851706244
+      Water_coasts1_11: 8090138270018786963
+      Water_coasts1_12: 7185696731548474523
+      Water_coasts1_13: 2312960001486539043
+      Water_coasts1_14: 4486885346925478387
+      Water_coasts1_15: 3561759462446907163
+      Water_coasts1_16: 3578447898240667516
+      Water_coasts1_17: -765286550434059894
+      Water_coasts1_18: 5570081763784174340
+      Water_coasts1_19: 3640762758973667272
+      Water_coasts1_2: 3220432752019299621
+      Water_coasts1_20: -2560158202010273236
+      Water_coasts1_21: -5885704742720434455
+      Water_coasts1_22: -4628578343310233752
+      Water_coasts1_23: 1067474356374564203
+      Water_coasts1_24: -5047788599112085354
+      Water_coasts1_25: -916416393927898785
+      Water_coasts1_26: -8621318604847222213
+      Water_coasts1_27: 5681300971581046626
+      Water_coasts1_28: 3700191545662732019
+      Water_coasts1_29: 4962221637822016590
+      Water_coasts1_3: -5263906186173445315
+      Water_coasts1_30: -7455106791679675390
+      Water_coasts1_31: 8490270861137718574
+      Water_coasts1_32: -342107462819019073
+      Water_coasts1_33: 1578203361557069924
+      Water_coasts1_34: 2620889512013628301
+      Water_coasts1_35: 5301543023765579009
+      Water_coasts1_36: 6869448684195560663
+      Water_coasts1_37: -9092859384027077986
+      Water_coasts1_38: 5465980687266059720
+      Water_coasts1_39: -1089810475596292711
+      Water_coasts1_4: 6230286449236877628
+      Water_coasts1_40: -2282060300992716922
+      Water_coasts1_41: 6714395189097966977
+      Water_coasts1_42: 536987648705442122
+      Water_coasts1_43: -6158282308120133721
+      Water_coasts1_44: 6642049738696200321
+      Water_coasts1_45: 6568865227303311885
+      Water_coasts1_46: -7849610718563144661
+      Water_coasts1_47: -416019387254581567
+      Water_coasts1_48: -6422263073221294968
+      Water_coasts1_49: -308855629229568907
+      Water_coasts1_5: 3401464696367039924
+      Water_coasts1_6: 5917588200680284265
+      Water_coasts1_7: -1669748587133263069
+      Water_coasts1_8: -2775429167876640434
+      Water_coasts1_9: 7694900273099252643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

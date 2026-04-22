@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 89ff8506f1c10c442b14686df32b333b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8589234529161366537
+    second: Rat1_Walk_with_shadow_0
+  - first:
+      213: 7698605971911980313
+    second: Rat1_Walk_with_shadow_1
+  - first:
+      213: 5062902284488178870
+    second: Rat1_Walk_with_shadow_2
+  - first:
+      213: 7670883142765262956
+    second: Rat1_Walk_with_shadow_3
+  - first:
+      213: -3953256192246722613
+    second: Rat1_Walk_with_shadow_4
+  - first:
+      213: 4193488686339738011
+    second: Rat1_Walk_with_shadow_5
+  - first:
+      213: 2347401750890501105
+    second: Rat1_Walk_with_shadow_6
+  - first:
+      213: -7299742075982687043
+    second: Rat1_Walk_with_shadow_7
+  - first:
+      213: -115347136974819070
+    second: Rat1_Walk_with_shadow_8
+  - first:
+      213: -4633709911824199805
+    second: Rat1_Walk_with_shadow_9
+  - first:
+      213: -2632321861114689631
+    second: Rat1_Walk_with_shadow_10
+  - first:
+      213: -3505485254572714315
+    second: Rat1_Walk_with_shadow_11
+  - first:
+      213: -7043051932807208650
+    second: Rat1_Walk_with_shadow_12
+  - first:
+      213: 5632865476789197981
+    second: Rat1_Walk_with_shadow_13
+  - first:
+      213: -5749563323237745139
+    second: Rat1_Walk_with_shadow_14
+  - first:
+      213: 2122554198297660780
+    second: Rat1_Walk_with_shadow_15
+  - first:
+      213: -6818595394339180403
+    second: Rat1_Walk_with_shadow_16
+  - first:
+      213: -4964669677914321438
+    second: Rat1_Walk_with_shadow_17
+  - first:
+      213: 1349155819466079093
+    second: Rat1_Walk_with_shadow_18
+  - first:
+      213: 8003690621857548353
+    second: Rat1_Walk_with_shadow_19
+  - first:
+      213: 5451354838084176526
+    second: Rat1_Walk_with_shadow_20
+  - first:
+      213: -3053544867127881907
+    second: Rat1_Walk_with_shadow_21
+  - first:
+      213: -2913813675451439803
+    second: Rat1_Walk_with_shadow_22
+  - first:
+      213: -8735746577875699722
+    second: Rat1_Walk_with_shadow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 434
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cce2beb47133770800000000000000
+      internalID: 8589234529161366537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 435
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915b38da751f6da60800000000000000
+      internalID: 7698605971911980313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 432
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc7e67adca034640800000000000000
+      internalID: 5062902284488178870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 434
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c683e068393747a60800000000000000
+      internalID: 7670883142765262956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 435
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf450b30763329c0800000000000000
+      internalID: -3953256192246722613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 432
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9946eefdb3423a30800000000000000
+      internalID: 4193488686339738011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 295
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f355f29475a39020800000000000000
+      internalID: 2347401750890501105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 296
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db45411f14b12ba90800000000000000
+      internalID: -7299742075982687043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 296
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201f1cad364366ef0800000000000000
+      internalID: -115347136974819070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 295
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f0389b261c1bfb0800000000000000
+      internalID: -4633709911824199805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 296
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a783c5c63d187bd0800000000000000
+      internalID: -2632321861114689631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 299
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6d2dbdbb30a5fc0800000000000000
+      internalID: -3505485254572714315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 180
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631e562359d024e90800000000000000
+      internalID: -7043051932807208650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 180
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cd4939e45fb2e40800000000000000
+      internalID: 5632865476789197981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 180
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ebcc8be927530b0800000000000000
+      internalID: -5749563323237745139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 180
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dcb0e2cc3d47d10800000000000000
+      internalID: 2122554198297660780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 180
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d807c458d9b7f51a0800000000000000
+      internalID: -6818595394339180403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 180
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed83cc5b33f91bb0800000000000000
+      internalID: -4964669677914321438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 52
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b3de5d11a29b210800000000000000
+      internalID: 1349155819466079093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 52
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148c1f71732d21f60800000000000000
+      internalID: 8003690621857548353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 52
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a4d9cb75a17ab40800000000000000
+      internalID: 5451354838084176526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 52
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f00292f11af95d0800000000000000
+      internalID: -3053544867127881907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 52
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545aa0576ed0097d0800000000000000
+      internalID: -2913813675451439803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Walk_with_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 52
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f772e975c464c680800000000000000
+      internalID: -8735746577875699722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat1_Walk_with_shadow_0: 8589234529161366537
+      Rat1_Walk_with_shadow_1: 7698605971911980313
+      Rat1_Walk_with_shadow_10: -2632321861114689631
+      Rat1_Walk_with_shadow_11: -3505485254572714315
+      Rat1_Walk_with_shadow_12: -7043051932807208650
+      Rat1_Walk_with_shadow_13: 5632865476789197981
+      Rat1_Walk_with_shadow_14: -5749563323237745139
+      Rat1_Walk_with_shadow_15: 2122554198297660780
+      Rat1_Walk_with_shadow_16: -6818595394339180403
+      Rat1_Walk_with_shadow_17: -4964669677914321438
+      Rat1_Walk_with_shadow_18: 1349155819466079093
+      Rat1_Walk_with_shadow_19: 8003690621857548353
+      Rat1_Walk_with_shadow_2: 5062902284488178870
+      Rat1_Walk_with_shadow_20: 5451354838084176526
+      Rat1_Walk_with_shadow_21: -3053544867127881907
+      Rat1_Walk_with_shadow_22: -2913813675451439803
+      Rat1_Walk_with_shadow_23: -8735746577875699722
+      Rat1_Walk_with_shadow_3: 7670883142765262956
+      Rat1_Walk_with_shadow_4: -3953256192246722613
+      Rat1_Walk_with_shadow_5: 4193488686339738011
+      Rat1_Walk_with_shadow_6: 2347401750890501105
+      Rat1_Walk_with_shadow_7: -7299742075982687043
+      Rat1_Walk_with_shadow_8: -115347136974819070
+      Rat1_Walk_with_shadow_9: -4633709911824199805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 11289e9247e659c40ae9753f4c650a2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1068290144419311173
+    second: Flying_flowers_0
+  - first:
+      213: 4975920863890923580
+    second: Flying_flowers_1
+  - first:
+      213: -7351869681778686738
+    second: Flying_flowers_2
+  - first:
+      213: 6760270590374104491
+    second: Flying_flowers_3
+  - first:
+      213: 1059660513246417009
+    second: Flying_flowers_4
+  - first:
+      213: -3497050945175063886
+    second: Flying_flowers_5
+  - first:
+      213: 5640502707848621074
+    second: Flying_flowers_6
+  - first:
+      213: 2755371798482687038
+    second: Flying_flowers_7
+  - first:
+      213: -2188663510796384961
+    second: Flying_flowers_8
+  - first:
+      213: 1526029488373823071
+    second: Flying_flowers_9
+  - first:
+      213: 911054721586290210
+    second: Flying_flowers_10
+  - first:
+      213: -8475851203427823667
+    second: Flying_flowers_11
+  - first:
+      213: -3633847550028319342
+    second: Flying_flowers_12
+  - first:
+      213: -1772415512316092741
+    second: Flying_flowers_13
+  - first:
+      213: -959521446058252619
+    second: Flying_flowers_14
+  - first:
+      213: -703862302500114228
+    second: Flying_flowers_15
+  - first:
+      213: -1659332220235277275
+    second: Flying_flowers_16
+  - first:
+      213: 8311864292627474480
+    second: Flying_flowers_17
+  - first:
+      213: -5731246652240390275
+    second: Flying_flowers_18
+  - first:
+      213: 4475014708481342223
+    second: Flying_flowers_19
+  - first:
+      213: 7309307732280387484
+    second: Flying_flowers_20
+  - first:
+      213: -6852400423160335195
+    second: Flying_flowers_21
+  - first:
+      213: 4737405247838565330
+    second: Flying_flowers_22
+  - first:
+      213: -5756413012153370123
+    second: Flying_flowers_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flying_flowers_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ee92fe93453de00800000000000000
+      internalID: 1068290144419311173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 96
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c306ca289a50e0540800000000000000
+      internalID: 4975920863890923580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 97
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee40e9ee979e8f990800000000000000
+      internalID: -7351869681778686738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 96
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badc4c4d84e41dd50800000000000000
+      internalID: 6760270590374104491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 95
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1709f8a5f9ba4be00800000000000000
+      internalID: 1059660513246417009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 94
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2756b81baf77fc0800000000000000
+      internalID: -3497050945175063886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c22fff357174e40800000000000000
+      internalID: 5640502707848621074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 65
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3490b85d0c0d3620800000000000000
+      internalID: 2755371798482687038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 65
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f354f1a022e40a1e0800000000000000
+      internalID: -2188663510796384961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 65
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56fa430cbb8d2510800000000000000
+      internalID: 1526029488373823071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 65
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ed71b3177b4ac00800000000000000
+      internalID: 911054721586290210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 65
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf0e9acc3abf5a80800000000000000
+      internalID: -8475851203427823667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 28
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29573acf7eaf19dc0800000000000000
+      internalID: -3633847550028319342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 29
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbed1027b7d1767e0800000000000000
+      internalID: -1772415512316092741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 30
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6245d14581fa2f0800000000000000
+      internalID: -959521446058252619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 29
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc031b017f06b36f0800000000000000
+      internalID: -703862302500114228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 28
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c1480232ed8f8e0800000000000000
+      internalID: -1659332220235277275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 27
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0386057398ca95370800000000000000
+      internalID: 8311864292627474480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77901509858670b0800000000000000
+      internalID: -5731246652240390275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bbdafea227a1e30800000000000000
+      internalID: 4475014708481342223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97a698f7a0ef6560800000000000000
+      internalID: 7309307732280387484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4bac6ee1267e0a0800000000000000
+      internalID: -6852400423160335195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d33d7a19f4aeb140800000000000000
+      internalID: 4737405247838565330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_flowers_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9792e3ddc1d10b0800000000000000
+      internalID: -5756413012153370123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flying_flowers_0: 1068290144419311173
+      Flying_flowers_1: 4975920863890923580
+      Flying_flowers_10: 911054721586290210
+      Flying_flowers_11: -8475851203427823667
+      Flying_flowers_12: -3633847550028319342
+      Flying_flowers_13: -1772415512316092741
+      Flying_flowers_14: -959521446058252619
+      Flying_flowers_15: -703862302500114228
+      Flying_flowers_16: -1659332220235277275
+      Flying_flowers_17: 8311864292627474480
+      Flying_flowers_18: -5731246652240390275
+      Flying_flowers_19: 4475014708481342223
+      Flying_flowers_2: -7351869681778686738
+      Flying_flowers_20: 7309307732280387484
+      Flying_flowers_21: -6852400423160335195
+      Flying_flowers_22: 4737405247838565330
+      Flying_flowers_23: -5756413012153370123
+      Flying_flowers_3: 6760270590374104491
+      Flying_flowers_4: 1059660513246417009
+      Flying_flowers_5: -3497050945175063886
+      Flying_flowers_6: 5640502707848621074
+      Flying_flowers_7: 2755371798482687038
+      Flying_flowers_8: -2188663510796384961
+      Flying_flowers_9: 1526029488373823071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

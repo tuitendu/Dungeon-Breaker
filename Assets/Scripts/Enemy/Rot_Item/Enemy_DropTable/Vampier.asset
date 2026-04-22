@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2177d3fd2de41b4f83d2e693f132d3e, type: 3}
+  m_Name: Vampier
+  m_EditorClassIdentifier: Assembly-CSharp::DropTable
+  goldChance: 1
+  goldMin: 50
+  goldMax: 100
+  expChance: 1
+  expMin: 50
+  expMax: 100
+  itemDrops:
+  - item: {fileID: 11400000, guid: c206a8f0dc13fac47b83cd11c8a9780c, type: 2}
+    prefab: {fileID: 3310126513020001783, guid: 95384b01a56344d4e895ef23a2a8e81e, type: 3}
+    chance: 0.497
+    min: 10
+    max: 20
+  - item: {fileID: 11400000, guid: 4c7bef52618779643a8cc91d30c8291d, type: 2}
+    prefab: {fileID: 3310126513020001783, guid: 1e637a33a7ec14a48846a1f41c82e273, type: 3}
+    chance: 0.524
+    min: 10
+    max: 20
+  - item: {fileID: 11400000, guid: d0a06e722bf75ab47ab64b2e4d7e4649, type: 2}
+    prefab: {fileID: 0}
+    chance: 0.5
+    min: 1
+    max: 1
+  - item: {fileID: 11400000, guid: f6890c4a2782f9340b801fb8c6b8e8c8, type: 2}
+    prefab: {fileID: 0}
+    chance: 0.5
+    min: 1
+    max: 1
+  - item: {fileID: 11400000, guid: 0ca55fb0edbecc94d90283afc5d25c3a, type: 2}
+    prefab: {fileID: 0}
+    chance: 0.5
+    min: 1
+    max: 1
+  - item: {fileID: 11400000, guid: 2131f15b6f766a24ca611495b678c744, type: 2}
+    prefab: {fileID: 0}
+    chance: 0.5
+    min: 1
+    max: 1
+  - item: {fileID: 11400000, guid: 6fbc25002b15e3d45bc56d2e3a80f548, type: 2}
+    prefab: {fileID: 0}
+    chance: 0.25
+    min: 1
+    max: 1
+  - item: {fileID: 11400000, guid: fd58117dcb6211346846b3f2226ae2bb, type: 2}
+    prefab: {fileID: 0}
+    chance: 1
+    min: 1
+    max: 1

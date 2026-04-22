@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 89faa91ff3e93be4694ca6d58cbcf24f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2080129643500251278
+    second: Rat3_Run_body_0
+  - first:
+      213: -343153033267459073
+    second: Rat3_Run_body_1
+  - first:
+      213: 4644495178864724460
+    second: Rat3_Run_body_2
+  - first:
+      213: 2918010210638039354
+    second: Rat3_Run_body_3
+  - first:
+      213: -2772459202278468112
+    second: Rat3_Run_body_4
+  - first:
+      213: 7329269641855525296
+    second: Rat3_Run_body_5
+  - first:
+      213: -8587661453493323436
+    second: Rat3_Run_body_6
+  - first:
+      213: 4373837331917408033
+    second: Rat3_Run_body_7
+  - first:
+      213: -2459879135078705909
+    second: Rat3_Run_body_8
+  - first:
+      213: 7906433714401676917
+    second: Rat3_Run_body_9
+  - first:
+      213: 783094260393736427
+    second: Rat3_Run_body_10
+  - first:
+      213: -1892193867340043003
+    second: Rat3_Run_body_11
+  - first:
+      213: 8502407404922081336
+    second: Rat3_Run_body_12
+  - first:
+      213: -8635740075290764763
+    second: Rat3_Run_body_13
+  - first:
+      213: -5549584922385484712
+    second: Rat3_Run_body_14
+  - first:
+      213: -1134927478101833277
+    second: Rat3_Run_body_15
+  - first:
+      213: 1172586887251915924
+    second: Rat3_Run_body_16
+  - first:
+      213: 7603544065697644113
+    second: Rat3_Run_body_17
+  - first:
+      213: 835461135267159855
+    second: Rat3_Run_body_18
+  - first:
+      213: -4930220955216047944
+    second: Rat3_Run_body_19
+  - first:
+      213: -8744317809026529177
+    second: Rat3_Run_body_20
+  - first:
+      213: -8498128832119219967
+    second: Rat3_Run_body_21
+  - first:
+      213: 3873696297915392630
+    second: Rat3_Run_body_22
+  - first:
+      213: -2831360178525149436
+    second: Rat3_Run_body_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat3_Run_body_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 442
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88a797c3ea1edc10800000000000000
+      internalID: 2080129643500251278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 442
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbce746220ec3bf0800000000000000
+      internalID: -343153033267459073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 448
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce90f31f1cf847040800000000000000
+      internalID: 4644495178864724460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 448
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a390b0883dade7820800000000000000
+      internalID: 2918010210638039354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 435
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5dded6b0f3689d0800000000000000
+      internalID: -2772459202278468112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_5
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 437
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b16ad938ebc6b560800000000000000
+      internalID: 7329269641855525296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 313
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459373d486f72d880800000000000000
+      internalID: -8587661453493323436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 303
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127874a31edf2bc30800000000000000
+      internalID: 4373837331917408033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 304
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b051d3ba5f0ccddd0800000000000000
+      internalID: -2459879135078705909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 305
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e851bb29b49bd60800000000000000
+      internalID: 7906433714401676917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 312
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be87a60b41c1eda00800000000000000
+      internalID: 783094260393736427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_11
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 316
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d2603f3b39db5e0800000000000000
+      internalID: -1892193867340043003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 183
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8301802bc7e9ef570800000000000000
+      internalID: 8502407404922081336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 183
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a50b7d720b72880800000000000000
+      internalID: -8635740075290764763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 183
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85479528ae9ebf2b0800000000000000
+      internalID: -5549584922385484712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 183
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c909e5c87def30f0800000000000000
+      internalID: -1134927478101833277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 183
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4947ee2bf8dd54010800000000000000
+      internalID: 1172586887251915924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_17
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 183
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15effedda07358960800000000000000
+      internalID: 7603544065697644113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 55
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f5e3fd977289b00800000000000000
+      internalID: 835461135267159855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 55
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b01924a926549bb0800000000000000
+      internalID: -4930220955216047944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 55
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7680ad53841f5a680800000000000000
+      internalID: -8744317809026529177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 55
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109570a2ad4901a80800000000000000
+      internalID: -8498128832119219967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_22
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 55
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6722efc524222c530800000000000000
+      internalID: 3873696297915392630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Run_body_23
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 55
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40762d73becf4b8d0800000000000000
+      internalID: -2831360178525149436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat3_Run_body_0: 2080129643500251278
+      Rat3_Run_body_1: -343153033267459073
+      Rat3_Run_body_10: 783094260393736427
+      Rat3_Run_body_11: -1892193867340043003
+      Rat3_Run_body_12: 8502407404922081336
+      Rat3_Run_body_13: -8635740075290764763
+      Rat3_Run_body_14: -5549584922385484712
+      Rat3_Run_body_15: -1134927478101833277
+      Rat3_Run_body_16: 1172586887251915924
+      Rat3_Run_body_17: 7603544065697644113
+      Rat3_Run_body_18: 835461135267159855
+      Rat3_Run_body_19: -4930220955216047944
+      Rat3_Run_body_2: 4644495178864724460
+      Rat3_Run_body_20: -8744317809026529177
+      Rat3_Run_body_21: -8498128832119219967
+      Rat3_Run_body_22: 3873696297915392630
+      Rat3_Run_body_23: -2831360178525149436
+      Rat3_Run_body_3: 2918010210638039354
+      Rat3_Run_body_4: -2772459202278468112
+      Rat3_Run_body_5: 7329269641855525296
+      Rat3_Run_body_6: -8587661453493323436
+      Rat3_Run_body_7: 4373837331917408033
+      Rat3_Run_body_8: -2459879135078705909
+      Rat3_Run_body_9: 7906433714401676917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

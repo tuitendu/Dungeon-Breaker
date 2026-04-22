@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 46c654f3db4e0fc4b859069f66feeb4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8214639169152111424
+    second: Rat2_Walk_body_0
+  - first:
+      213: 4149275553923441673
+    second: Rat2_Walk_body_1
+  - first:
+      213: -173265079361792191
+    second: Rat2_Walk_body_2
+  - first:
+      213: 8417523204677133356
+    second: Rat2_Walk_body_3
+  - first:
+      213: -8226333170776836060
+    second: Rat2_Walk_body_4
+  - first:
+      213: -18235088089909980
+    second: Rat2_Walk_body_5
+  - first:
+      213: 3497673993700602322
+    second: Rat2_Walk_body_6
+  - first:
+      213: -4277440623966075236
+    second: Rat2_Walk_body_7
+  - first:
+      213: 6814326495848056246
+    second: Rat2_Walk_body_8
+  - first:
+      213: -4455423156147843090
+    second: Rat2_Walk_body_9
+  - first:
+      213: 3251333697634276836
+    second: Rat2_Walk_body_10
+  - first:
+      213: 5542091779992918694
+    second: Rat2_Walk_body_11
+  - first:
+      213: 4361903710672997797
+    second: Rat2_Walk_body_12
+  - first:
+      213: -3332821481537279124
+    second: Rat2_Walk_body_13
+  - first:
+      213: 774655371257706447
+    second: Rat2_Walk_body_14
+  - first:
+      213: -7568867317907214692
+    second: Rat2_Walk_body_15
+  - first:
+      213: -7099271123322211110
+    second: Rat2_Walk_body_16
+  - first:
+      213: -326183761010368119
+    second: Rat2_Walk_body_17
+  - first:
+      213: -5499401110271033039
+    second: Rat2_Walk_body_18
+  - first:
+      213: -3108680511854554793
+    second: Rat2_Walk_body_19
+  - first:
+      213: -7092651703816789125
+    second: Rat2_Walk_body_20
+  - first:
+      213: 3517581394479964004
+    second: Rat2_Walk_body_21
+  - first:
+      213: 6690392385317107244
+    second: Rat2_Walk_body_22
+  - first:
+      213: -6260305712762470748
+    second: Rat2_Walk_body_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat2_Walk_body_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 436
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04352532dc2400270800000000000000
+      internalID: 8214639169152111424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 440
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904a1dae120359930800000000000000
+      internalID: 4149275553923441673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 435
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14719ac0450789df0800000000000000
+      internalID: -173265079361792191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 436
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c246367b1cc01d470800000000000000
+      internalID: 8417523204677133356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_4
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 440
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42875dfe09136dd80800000000000000
+      internalID: -8226333170776836060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 435
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425f3f3b8473fbff0800000000000000
+      internalID: -18235088089909980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 295
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d175ae37fb3a8030800000000000000
+      internalID: 3497673993700602322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 296
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c964da45a6a73a4c0800000000000000
+      internalID: -4277440623966075236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 296
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b54e8818d9519e50800000000000000
+      internalID: 6814326495848056246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 295
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef02cdce382b22c0800000000000000
+      internalID: -4455423156147843090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_10
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 296
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e59fbd85ce0f1d20800000000000000
+      internalID: 3251333697634276836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_11
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 299
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa17135c1779ec40800000000000000
+      internalID: 5542091779992918694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 183
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad4f138058988c30800000000000000
+      internalID: 4361903710672997797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 183
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bed2545807fb1d0800000000000000
+      internalID: -3332821481537279124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 183
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7f923b4f020ca00800000000000000
+      internalID: 774655371257706447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 183
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ea314a64bf5f690800000000000000
+      internalID: -7568867317907214692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_16
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 183
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4f032e6825a7d90800000000000000
+      internalID: -7099271123322211110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_17
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 183
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981e979f899297bf0800000000000000
+      internalID: -326183761010368119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 55
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13108e8c3d33ea3b0800000000000000
+      internalID: -5499401110271033039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 55
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751dab28b8fbbd4d0800000000000000
+      internalID: -3108680511854554793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 55
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b736e669ad6d19d90800000000000000
+      internalID: -7092651703816789125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_21
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 55
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f508e24a5f0d030800000000000000
+      internalID: 3517581394479964004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_22
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 55
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26fdce5d6c09dc50800000000000000
+      internalID: 6690392385317107244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Walk_body_23
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 55
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeb17d6f1dee19a0800000000000000
+      internalID: -6260305712762470748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat2_Walk_body_0: 8214639169152111424
+      Rat2_Walk_body_1: 4149275553923441673
+      Rat2_Walk_body_10: 3251333697634276836
+      Rat2_Walk_body_11: 5542091779992918694
+      Rat2_Walk_body_12: 4361903710672997797
+      Rat2_Walk_body_13: -3332821481537279124
+      Rat2_Walk_body_14: 774655371257706447
+      Rat2_Walk_body_15: -7568867317907214692
+      Rat2_Walk_body_16: -7099271123322211110
+      Rat2_Walk_body_17: -326183761010368119
+      Rat2_Walk_body_18: -5499401110271033039
+      Rat2_Walk_body_19: -3108680511854554793
+      Rat2_Walk_body_2: -173265079361792191
+      Rat2_Walk_body_20: -7092651703816789125
+      Rat2_Walk_body_21: 3517581394479964004
+      Rat2_Walk_body_22: 6690392385317107244
+      Rat2_Walk_body_23: -6260305712762470748
+      Rat2_Walk_body_3: 8417523204677133356
+      Rat2_Walk_body_4: -8226333170776836060
+      Rat2_Walk_body_5: -18235088089909980
+      Rat2_Walk_body_6: 3497673993700602322
+      Rat2_Walk_body_7: -4277440623966075236
+      Rat2_Walk_body_8: 6814326495848056246
+      Rat2_Walk_body_9: -4455423156147843090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

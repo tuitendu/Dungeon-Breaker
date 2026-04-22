@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 7f9523459c8782244a23c0ab7f70be80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2184302597693785454
+    second: Rat1_Attack_swing_0
+  - first:
+      213: -9039031567286713606
+    second: Rat1_Attack_swing_1
+  - first:
+      213: -7345386313866209974
+    second: Rat1_Attack_swing_2
+  - first:
+      213: 9162528250580248338
+    second: Rat1_Attack_swing_3
+  - first:
+      213: 8422032518565320677
+    second: Rat1_Attack_swing_4
+  - first:
+      213: -7106164607216655625
+    second: Rat1_Attack_swing_5
+  - first:
+      213: 1043387249655066724
+    second: Rat1_Attack_swing_6
+  - first:
+      213: 2461719911751859984
+    second: Rat1_Attack_swing_7
+  - first:
+      213: -1237238243591850280
+    second: Rat1_Attack_swing_8
+  - first:
+      213: -8243426616708492318
+    second: Rat1_Attack_swing_9
+  - first:
+      213: -2444807913982720885
+    second: Rat1_Attack_swing_10
+  - first:
+      213: -2109767357859270489
+    second: Rat1_Attack_swing_11
+  - first:
+      213: -5865626936401117747
+    second: Rat1_Attack_swing_12
+  - first:
+      213: -6923829468161328303
+    second: Rat1_Attack_swing_13
+  - first:
+      213: 5737295487330342050
+    second: Rat1_Attack_swing_14
+  - first:
+      213: 7510863835611003047
+    second: Rat1_Attack_swing_15
+  - first:
+      213: -4310068344090293494
+    second: Rat1_Attack_swing_16
+  - first:
+      213: -2647429643743109064
+    second: Rat1_Attack_swing_17
+  - first:
+      213: 5443290586573128905
+    second: Rat1_Attack_swing_18
+  - first:
+      213: 7049497668900888702
+    second: Rat1_Attack_swing_19
+  - first:
+      213: -5858294358797709544
+    second: Rat1_Attack_swing_20
+  - first:
+      213: -3169092713139235610
+    second: Rat1_Attack_swing_21
+  - first:
+      213: -3134001655480285552
+    second: Rat1_Attack_swing_22
+  - first:
+      213: -90101224492160735
+    second: Rat1_Attack_swing_23
+  - first:
+      213: -6527089768859568216
+    second: Rat1_Attack_swing_24
+  - first:
+      213: 1156985821062692251
+    second: Rat1_Attack_swing_25
+  - first:
+      213: 3034571422398885947
+    second: Rat1_Attack_swing_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_0
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 447
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e654081c3a3305e10800000000000000
+      internalID: 2184302597693785454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_1
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 417
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2455e2ea8ee8280800000000000000
+      internalID: -9039031567286713606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_2
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a451df7a012ff0a90800000000000000
+      internalID: -7345386313866209974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 414
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217215416e6d72f70800000000000000
+      internalID: 9162528250580248338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_4
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 335
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7dfdb24f111e470800000000000000
+      internalID: 8422032518565320677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 311
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2e56790f4d16d90800000000000000
+      internalID: -7106164607216655625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_6
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 316
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460bcdaec2bda7e00800000000000000
+      internalID: 1043387249655066724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_7
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 310
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fb97c8739c92220800000000000000
+      internalID: 2461719911751859984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_8
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 308
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6fd246f5274dee0800000000000000
+      internalID: -1237238243591850280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 198
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3171bea27799d80800000000000000
+      internalID: -8243426616708492318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_10
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 210
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b840ff6c72c421ed0800000000000000
+      internalID: -2444807913982720885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 207
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0751c14c998b2e0800000000000000
+      internalID: -2109767357859270489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_12
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 196
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd39d6f06b199ea0800000000000000
+      internalID: -5865626936401117747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_13
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 199
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bbcd068cd99ef90800000000000000
+      internalID: -6923829468161328303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_14
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4d6c529d7fe9f40800000000000000
+      internalID: 5737295487330342050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_15
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 172
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8fbed3dd2fb3860800000000000000
+      internalID: 7510863835611003047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 169
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b87d04daf8f24c0800000000000000
+      internalID: -4310068344090293494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_17
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 171
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8306ad404c0724bd0800000000000000
+      internalID: -2647429643743109064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_18
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 82
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c44bedd2f37a8b40800000000000000
+      internalID: 5443290586573128905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_19
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 79
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7028cfa7c8d4d160800000000000000
+      internalID: 7049497668900888702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_20
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 70
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f003ab15823bea0800000000000000
+      internalID: -5858294358797709544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_21
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 71
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e49e0dc7fe1504d0800000000000000
+      internalID: -3169092713139235610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_22
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 68
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0968c97591ac184d0800000000000000
+      internalID: -3134001655480285552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_23
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1292158e965efbef0800000000000000
+      internalID: -90101224492160735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_24
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 44
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7f90eef6e1b65a0800000000000000
+      internalID: -6527089768859568216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_25
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 43
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dfa9a69707e0010800000000000000
+      internalID: 1156985821062692251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_swing_26
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 41
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3033ad71a6fc1a20800000000000000
+      internalID: 3034571422398885947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat1_Attack_swing_0: 2184302597693785454
+      Rat1_Attack_swing_1: -9039031567286713606
+      Rat1_Attack_swing_10: -2444807913982720885
+      Rat1_Attack_swing_11: -2109767357859270489
+      Rat1_Attack_swing_12: -5865626936401117747
+      Rat1_Attack_swing_13: -6923829468161328303
+      Rat1_Attack_swing_14: 5737295487330342050
+      Rat1_Attack_swing_15: 7510863835611003047
+      Rat1_Attack_swing_16: -4310068344090293494
+      Rat1_Attack_swing_17: -2647429643743109064
+      Rat1_Attack_swing_18: 5443290586573128905
+      Rat1_Attack_swing_19: 7049497668900888702
+      Rat1_Attack_swing_2: -7345386313866209974
+      Rat1_Attack_swing_20: -5858294358797709544
+      Rat1_Attack_swing_21: -3169092713139235610
+      Rat1_Attack_swing_22: -3134001655480285552
+      Rat1_Attack_swing_23: -90101224492160735
+      Rat1_Attack_swing_24: -6527089768859568216
+      Rat1_Attack_swing_25: 1156985821062692251
+      Rat1_Attack_swing_26: 3034571422398885947
+      Rat1_Attack_swing_3: 9162528250580248338
+      Rat1_Attack_swing_4: 8422032518565320677
+      Rat1_Attack_swing_5: -7106164607216655625
+      Rat1_Attack_swing_6: 1043387249655066724
+      Rat1_Attack_swing_7: 2461719911751859984
+      Rat1_Attack_swing_8: -1237238243591850280
+      Rat1_Attack_swing_9: -8243426616708492318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

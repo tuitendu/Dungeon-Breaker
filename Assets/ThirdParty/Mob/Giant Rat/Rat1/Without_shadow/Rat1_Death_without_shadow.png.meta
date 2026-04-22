@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 9b27e789467d0154aa190d74d08ee8a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4692309934765860602
+    second: Rat1_Death_without_shadow_0
+  - first:
+      213: 2685695987899177197
+    second: Rat1_Death_without_shadow_1
+  - first:
+      213: 795165267612037423
+    second: Rat1_Death_without_shadow_2
+  - first:
+      213: 1097466747942837546
+    second: Rat1_Death_without_shadow_3
+  - first:
+      213: -836772885758800718
+    second: Rat1_Death_without_shadow_4
+  - first:
+      213: 299039158629836934
+    second: Rat1_Death_without_shadow_5
+  - first:
+      213: -2844361200527531303
+    second: Rat1_Death_without_shadow_6
+  - first:
+      213: 7245239921340141817
+    second: Rat1_Death_without_shadow_7
+  - first:
+      213: -6142320419184264817
+    second: Rat1_Death_without_shadow_8
+  - first:
+      213: -9134688086556620355
+    second: Rat1_Death_without_shadow_9
+  - first:
+      213: -422776489646255975
+    second: Rat1_Death_without_shadow_10
+  - first:
+      213: 2106739406630690253
+    second: Rat1_Death_without_shadow_11
+  - first:
+      213: -4320587975060373645
+    second: Rat1_Death_without_shadow_12
+  - first:
+      213: -8478031576087924107
+    second: Rat1_Death_without_shadow_13
+  - first:
+      213: -7074949974379771840
+    second: Rat1_Death_without_shadow_14
+  - first:
+      213: -7777227020637309496
+    second: Rat1_Death_without_shadow_15
+  - first:
+      213: 2665952645215015211
+    second: Rat1_Death_without_shadow_16
+  - first:
+      213: -5745373823696237030
+    second: Rat1_Death_without_shadow_17
+  - first:
+      213: 5273842281436223576
+    second: Rat1_Death_without_shadow_18
+  - first:
+      213: 3134935519778473909
+    second: Rat1_Death_without_shadow_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 434
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6099e3aa9f091eeb0800000000000000
+      internalID: -4692309934765860602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 437
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de81c658542854520800000000000000
+      internalID: 2685695987899177197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 437
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f217eb1199ef80b00800000000000000
+      internalID: 795165267612037423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 428
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d9fef413cfa3f00800000000000000
+      internalID: 1097466747942837546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 428
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc0baa6e7f2364f0800000000000000
+      internalID: -836772885758800718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 305
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6882018c786662400800000000000000
+      internalID: 299039158629836934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 305
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d227a5ee8cc688d0800000000000000
+      internalID: -2844361200527531303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 303
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f055ff42534c8460800000000000000
+      internalID: 7245239921340141817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 301
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89b4e54f1812caa0800000000000000
+      internalID: -6142320419184264817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 301
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9ccca35911b3180800000000000000
+      internalID: -9134688086556620355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 183
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9909f3bc50ff12af0800000000000000
+      internalID: -422776489646255975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 183
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd1a8e0454ac3d10800000000000000
+      internalID: 2106739406630690253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 183
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fb3bdc0203a04c0800000000000000
+      internalID: -4320587975060373645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 181
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572fbb8333bf75a80800000000000000
+      internalID: -8478031576087924107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 181
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0484f65ab7ab0dd90800000000000000
+      internalID: -7074949974379771840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 55
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5f751fa3db11490800000000000000
+      internalID: -7777227020637309496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 55
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21dd065ecd5ff420800000000000000
+      internalID: 2665952645215015211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 55
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e02c892f45440b0800000000000000
+      internalID: -5745373823696237030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 53
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858117aec93703940800000000000000
+      internalID: 5273842281436223576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_without_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 53
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b78622ee37818b20800000000000000
+      internalID: 3134935519778473909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat1_Death_without_shadow_0: -4692309934765860602
+      Rat1_Death_without_shadow_1: 2685695987899177197
+      Rat1_Death_without_shadow_10: -422776489646255975
+      Rat1_Death_without_shadow_11: 2106739406630690253
+      Rat1_Death_without_shadow_12: -4320587975060373645
+      Rat1_Death_without_shadow_13: -8478031576087924107
+      Rat1_Death_without_shadow_14: -7074949974379771840
+      Rat1_Death_without_shadow_15: -7777227020637309496
+      Rat1_Death_without_shadow_16: 2665952645215015211
+      Rat1_Death_without_shadow_17: -5745373823696237030
+      Rat1_Death_without_shadow_18: 5273842281436223576
+      Rat1_Death_without_shadow_19: 3134935519778473909
+      Rat1_Death_without_shadow_2: 795165267612037423
+      Rat1_Death_without_shadow_3: 1097466747942837546
+      Rat1_Death_without_shadow_4: -836772885758800718
+      Rat1_Death_without_shadow_5: 299039158629836934
+      Rat1_Death_without_shadow_6: -2844361200527531303
+      Rat1_Death_without_shadow_7: 7245239921340141817
+      Rat1_Death_without_shadow_8: -6142320419184264817
+      Rat1_Death_without_shadow_9: -9134688086556620355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 98d628a2b1abcb44f87f99d78cd51116
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6346490734651040579
+    second: Rat1_Hurt_body_0
+  - first:
+      213: -8035571354257623092
+    second: Rat1_Hurt_body_1
+  - first:
+      213: -7241331748977445436
+    second: Rat1_Hurt_body_2
+  - first:
+      213: -6038898686401264504
+    second: Rat1_Hurt_body_3
+  - first:
+      213: 1782600380575899552
+    second: Rat1_Hurt_body_4
+  - first:
+      213: 4025889429683361246
+    second: Rat1_Hurt_body_5
+  - first:
+      213: -4422574041969787589
+    second: Rat1_Hurt_body_6
+  - first:
+      213: -876028529219931464
+    second: Rat1_Hurt_body_7
+  - first:
+      213: 8602249184860260360
+    second: Rat1_Hurt_body_8
+  - first:
+      213: 3483142176630813718
+    second: Rat1_Hurt_body_9
+  - first:
+      213: -2994652744187637268
+    second: Rat1_Hurt_body_10
+  - first:
+      213: -3314077896039256080
+    second: Rat1_Hurt_body_11
+  - first:
+      213: 6391293403376129098
+    second: Rat1_Hurt_body_12
+  - first:
+      213: -4947644768443039837
+    second: Rat1_Hurt_body_13
+  - first:
+      213: 8195557388468210254
+    second: Rat1_Hurt_body_14
+  - first:
+      213: 1495321507855757668
+    second: Rat1_Hurt_body_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 437
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc11de4d4cbce7a0800000000000000
+      internalID: -6346490734651040579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 437
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc77b267d6aeb7090800000000000000
+      internalID: -8035571354257623092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 437
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5f079f32f918b90800000000000000
+      internalID: -7241331748977445436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 437
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ca72e3a5813ca0800000000000000
+      internalID: -6038898686401264504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 305
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd3bcf9911db810800000000000000
+      internalID: 1782600380575899552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 305
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5d6413b15ded730800000000000000
+      internalID: 4025889429683361246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 303
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3df683375cdf92c0800000000000000
+      internalID: -4422574041969787589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 305
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2fcbea1b8b7d3f0800000000000000
+      internalID: -876028529219931464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 183
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8084df49e04516770800000000000000
+      internalID: 8602249184860260360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 183
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614b24cea5b965030800000000000000
+      internalID: 3483142176630813718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 183
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce11c0d023bd076d0800000000000000
+      internalID: -2994652744187637268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 183
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff2b9856b70202d0800000000000000
+      internalID: -3314077896039256080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 55
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a441883ec7f62b850800000000000000
+      internalID: 6391293403376129098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 55
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aff12efb4f665bb0800000000000000
+      internalID: -4947644768443039837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 55
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ac9fbd5087cb170800000000000000
+      internalID: 8195557388468210254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Hurt_body_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 55
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4617eb42df270c410800000000000000
+      internalID: 1495321507855757668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat1_Hurt_body_0: -6346490734651040579
+      Rat1_Hurt_body_1: -8035571354257623092
+      Rat1_Hurt_body_10: -2994652744187637268
+      Rat1_Hurt_body_11: -3314077896039256080
+      Rat1_Hurt_body_12: 6391293403376129098
+      Rat1_Hurt_body_13: -4947644768443039837
+      Rat1_Hurt_body_14: 8195557388468210254
+      Rat1_Hurt_body_15: 1495321507855757668
+      Rat1_Hurt_body_2: -7241331748977445436
+      Rat1_Hurt_body_3: -6038898686401264504
+      Rat1_Hurt_body_4: 1782600380575899552
+      Rat1_Hurt_body_5: 4025889429683361246
+      Rat1_Hurt_body_6: -4422574041969787589
+      Rat1_Hurt_body_7: -876028529219931464
+      Rat1_Hurt_body_8: 8602249184860260360
+      Rat1_Hurt_body_9: 3483142176630813718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

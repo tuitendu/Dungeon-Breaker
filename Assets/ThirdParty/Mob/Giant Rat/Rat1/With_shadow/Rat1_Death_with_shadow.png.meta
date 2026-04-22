@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 49b5c046c701ef54ea55dae87fa8004a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2062225653774739615
+    second: Rat1_Death_with_shadow_0
+  - first:
+      213: -5272360856228482673
+    second: Rat1_Death_with_shadow_1
+  - first:
+      213: 8348888429347442654
+    second: Rat1_Death_with_shadow_2
+  - first:
+      213: 2452709552210515591
+    second: Rat1_Death_with_shadow_3
+  - first:
+      213: -289581282476340097
+    second: Rat1_Death_with_shadow_4
+  - first:
+      213: -6956165758856000887
+    second: Rat1_Death_with_shadow_5
+  - first:
+      213: 2651537604958397819
+    second: Rat1_Death_with_shadow_6
+  - first:
+      213: -7222146896619236119
+    second: Rat1_Death_with_shadow_7
+  - first:
+      213: -2633593314310210104
+    second: Rat1_Death_with_shadow_8
+  - first:
+      213: 8988534149355044754
+    second: Rat1_Death_with_shadow_9
+  - first:
+      213: -7798973999238156138
+    second: Rat1_Death_with_shadow_10
+  - first:
+      213: -8936382070714967744
+    second: Rat1_Death_with_shadow_11
+  - first:
+      213: 6838488843082636856
+    second: Rat1_Death_with_shadow_12
+  - first:
+      213: 3472379522649687447
+    second: Rat1_Death_with_shadow_13
+  - first:
+      213: 4345285413801187455
+    second: Rat1_Death_with_shadow_14
+  - first:
+      213: 161568884059440170
+    second: Rat1_Death_with_shadow_15
+  - first:
+      213: -700835487806271333
+    second: Rat1_Death_with_shadow_16
+  - first:
+      213: 7659844599308485026
+    second: Rat1_Death_with_shadow_17
+  - first:
+      213: -783780020499831263
+    second: Rat1_Death_with_shadow_18
+  - first:
+      213: 6493033562149716379
+    second: Rat1_Death_with_shadow_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 434
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1671f0ca1b08163e0800000000000000
+      internalID: -2062225653774739615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 435
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81b3d44cbfc4d6b0800000000000000
+      internalID: -5272360856228482673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 435
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf8f9ccac53dd370800000000000000
+      internalID: 8348888429347442654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 428
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78617bcb756c90220800000000000000
+      internalID: 2452709552210515591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 428
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c456c9b533bfbf0800000000000000
+      internalID: -289581282476340097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a07a0091cb67f90800000000000000
+      internalID: -6956165758856000887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 305
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75a22c37672cc420800000000000000
+      internalID: 2651537604958397819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 303
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4125f79a7c5cb90800000000000000
+      internalID: -7222146896619236119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 301
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd32b185d8937bd0800000000000000
+      internalID: -2633593314310210104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 301
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f76cf7f20bdbc70800000000000000
+      internalID: 8988534149355044754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 180
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690f6eae77a74c390800000000000000
+      internalID: -7798973999238156138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 180
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0495dd98ad79bf380800000000000000
+      internalID: -8936382070714967744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 180
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e9964fe5137ee50800000000000000
+      internalID: 6838488843082636856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 180
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79500e447ce503030800000000000000
+      internalID: 3472379522649687447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 180
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f785e41cf0e8d4c30800000000000000
+      internalID: 4345285413801187455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 52
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a248e154b020e3200800000000000000
+      internalID: 161568884059440170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 52
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90d15746d12646f0800000000000000
+      internalID: -700835487806271333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 52
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a10a78541c3d4a60800000000000000
+      internalID: 7659844599308485026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 52
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1262f0859347f15f0800000000000000
+      internalID: -783780020499831263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Death_with_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 52
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b918f9a8f93eb1a50800000000000000
+      internalID: 6493033562149716379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat1_Death_with_shadow_0: -2062225653774739615
+      Rat1_Death_with_shadow_1: -5272360856228482673
+      Rat1_Death_with_shadow_10: -7798973999238156138
+      Rat1_Death_with_shadow_11: -8936382070714967744
+      Rat1_Death_with_shadow_12: 6838488843082636856
+      Rat1_Death_with_shadow_13: 3472379522649687447
+      Rat1_Death_with_shadow_14: 4345285413801187455
+      Rat1_Death_with_shadow_15: 161568884059440170
+      Rat1_Death_with_shadow_16: -700835487806271333
+      Rat1_Death_with_shadow_17: 7659844599308485026
+      Rat1_Death_with_shadow_18: -783780020499831263
+      Rat1_Death_with_shadow_19: 6493033562149716379
+      Rat1_Death_with_shadow_2: 8348888429347442654
+      Rat1_Death_with_shadow_3: 2452709552210515591
+      Rat1_Death_with_shadow_4: -289581282476340097
+      Rat1_Death_with_shadow_5: -6956165758856000887
+      Rat1_Death_with_shadow_6: 2651537604958397819
+      Rat1_Death_with_shadow_7: -7222146896619236119
+      Rat1_Death_with_shadow_8: -2633593314310210104
+      Rat1_Death_with_shadow_9: 8988534149355044754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

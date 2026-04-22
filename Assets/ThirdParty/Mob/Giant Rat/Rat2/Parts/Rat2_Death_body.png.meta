@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: cae535d293618624eb9806c622fa769e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5436870874841954180
+    second: Rat2_Death_body_0
+  - first:
+      213: 1786616320985795811
+    second: Rat2_Death_body_1
+  - first:
+      213: -7813089847770827840
+    second: Rat2_Death_body_2
+  - first:
+      213: -4978137279247625256
+    second: Rat2_Death_body_3
+  - first:
+      213: -4384614643362261667
+    second: Rat2_Death_body_4
+  - first:
+      213: 7984429107089320514
+    second: Rat2_Death_body_5
+  - first:
+      213: -433524861704984600
+    second: Rat2_Death_body_6
+  - first:
+      213: 459744740952974340
+    second: Rat2_Death_body_7
+  - first:
+      213: -7176774352447667171
+    second: Rat2_Death_body_8
+  - first:
+      213: 4776368859339124447
+    second: Rat2_Death_body_9
+  - first:
+      213: 6143081535344456128
+    second: Rat2_Death_body_10
+  - first:
+      213: -9090274519152982065
+    second: Rat2_Death_body_11
+  - first:
+      213: -8361293201335863381
+    second: Rat2_Death_body_12
+  - first:
+      213: 2940636626222899620
+    second: Rat2_Death_body_13
+  - first:
+      213: 4492918781007464583
+    second: Rat2_Death_body_14
+  - first:
+      213: -8411674427642748825
+    second: Rat2_Death_body_15
+  - first:
+      213: 5810720226601376015
+    second: Rat2_Death_body_16
+  - first:
+      213: 7433148468180209930
+    second: Rat2_Death_body_17
+  - first:
+      213: -9020755914209761768
+    second: Rat2_Death_body_18
+  - first:
+      213: 4904475971989007810
+    second: Rat2_Death_body_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat2_Death_body_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 437
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4873f904145a37b40800000000000000
+      internalID: 5436870874841954180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 437
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec064af3165bc810800000000000000
+      internalID: 1786616320985795811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 437
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3b861dd24529390800000000000000
+      internalID: -7813089847770827840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 434
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3d053158a1aeab0800000000000000
+      internalID: -4978137279247625256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 435
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d559a696638b623c0800000000000000
+      internalID: -4384614643362261667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 305
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a295638f36ece60800000000000000
+      internalID: 7984429107089320514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 305
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e726c86f6fcbf9f0800000000000000
+      internalID: -433524861704984600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 303
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4042bd3f767516600800000000000000
+      internalID: 459744740952974340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 301
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14093920c9f66c90800000000000000
+      internalID: -7176774352447667171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_9
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 301
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde6529db22194240800000000000000
+      internalID: 4776368859339124447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 183
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1b774eb1c904550800000000000000
+      internalID: 6143081535344456128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 183
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc70a17bc7bd8d180800000000000000
+      internalID: -9090274519152982065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 183
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7bc772228b6fb80800000000000000
+      internalID: -8361293201335863381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 182
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1e48f6e6d3fc820800000000000000
+      internalID: 2940636626222899620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_14
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 181
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78881aaa3dd0a5e30800000000000000
+      internalID: 4492918781007464583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 55
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760ed1eccaab34b80800000000000000
+      internalID: -8411674427642748825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 55
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0990c37243d3a050800000000000000
+      internalID: 5810720226601376015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 55
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01de983629d72760800000000000000
+      internalID: 7433148468180209930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 54
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816e5004a46dfc280800000000000000
+      internalID: -9020755914209761768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Death_body_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 53
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cde7d759e2301440800000000000000
+      internalID: 4904475971989007810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat2_Death_body_0: 5436870874841954180
+      Rat2_Death_body_1: 1786616320985795811
+      Rat2_Death_body_10: 6143081535344456128
+      Rat2_Death_body_11: -9090274519152982065
+      Rat2_Death_body_12: -8361293201335863381
+      Rat2_Death_body_13: 2940636626222899620
+      Rat2_Death_body_14: 4492918781007464583
+      Rat2_Death_body_15: -8411674427642748825
+      Rat2_Death_body_16: 5810720226601376015
+      Rat2_Death_body_17: 7433148468180209930
+      Rat2_Death_body_18: -9020755914209761768
+      Rat2_Death_body_19: 4904475971989007810
+      Rat2_Death_body_2: -7813089847770827840
+      Rat2_Death_body_3: -4978137279247625256
+      Rat2_Death_body_4: -4384614643362261667
+      Rat2_Death_body_5: 7984429107089320514
+      Rat2_Death_body_6: -433524861704984600
+      Rat2_Death_body_7: 459744740952974340
+      Rat2_Death_body_8: -7176774352447667171
+      Rat2_Death_body_9: 4776368859339124447
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

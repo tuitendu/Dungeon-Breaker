@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - enemy
+  - Undefined
+  - Obstacle
+  - Enemy
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Obstacle
+  - Enemy
+  - Ground
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 870886005
+    locked: 0
+  - name: Decor-ObjectFront
+    uniqueID: 4049822929
+    locked: 0
+  - name: ObjectFront
+    uniqueID: 3823907111
+    locked: 0
+  - name: SecondBackground-Dungeon
+    uniqueID: 3138024583
+    locked: 0
+  - name: SecondObjectFront-Dungeon
+    uniqueID: 3704458379
+    locked: 0
+  - name: Environment
+    uniqueID: 331055831
+    locked: 0
+  - name: Decor-Environment
+    uniqueID: 1205561185
+    locked: 0
+  - name: Entities
+    uniqueID: 833178571
+    locked: 0
+  - name: ObjectBehind
+    uniqueID: 3146451099
+    locked: 0
+  - name: UI
+    uniqueID: 4172050521
+    locked: 0
+  m_RenderingLayers:
+  - Default

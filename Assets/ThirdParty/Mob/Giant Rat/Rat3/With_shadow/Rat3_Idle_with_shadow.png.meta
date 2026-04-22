@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 279523c2db3e5b74f8b320e080f95adb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8590095159667856877
+    second: Rat3_Idle_with_shadow_0
+  - first:
+      213: -3102035808442555685
+    second: Rat3_Idle_with_shadow_1
+  - first:
+      213: 2643608869733016599
+    second: Rat3_Idle_with_shadow_2
+  - first:
+      213: 7141471599438734013
+    second: Rat3_Idle_with_shadow_3
+  - first:
+      213: -1575895908516034027
+    second: Rat3_Idle_with_shadow_4
+  - first:
+      213: 4578733263435990312
+    second: Rat3_Idle_with_shadow_5
+  - first:
+      213: 7948561398617227930
+    second: Rat3_Idle_with_shadow_6
+  - first:
+      213: -4353834085714478149
+    second: Rat3_Idle_with_shadow_7
+  - first:
+      213: 131735039044216213
+    second: Rat3_Idle_with_shadow_8
+  - first:
+      213: 5364496798369046553
+    second: Rat3_Idle_with_shadow_9
+  - first:
+      213: 1533707884143040274
+    second: Rat3_Idle_with_shadow_10
+  - first:
+      213: -7631876463674024674
+    second: Rat3_Idle_with_shadow_11
+  - first:
+      213: 7147298298631111770
+    second: Rat3_Idle_with_shadow_12
+  - first:
+      213: -7019306283672944073
+    second: Rat3_Idle_with_shadow_13
+  - first:
+      213: -1691029391928349837
+    second: Rat3_Idle_with_shadow_14
+  - first:
+      213: -1900397385345233430
+    second: Rat3_Idle_with_shadow_15
+  - first:
+      213: -3311518056028821262
+    second: Rat3_Idle_with_shadow_16
+  - first:
+      213: 3178288041106192447
+    second: Rat3_Idle_with_shadow_17
+  - first:
+      213: 9191754454380760702
+    second: Rat3_Idle_with_shadow_18
+  - first:
+      213: 6520016316321718549
+    second: Rat3_Idle_with_shadow_19
+  - first:
+      213: 5684074683800900575
+    second: Rat3_Idle_with_shadow_20
+  - first:
+      213: -5197134819230954975
+    second: Rat3_Idle_with_shadow_21
+  - first:
+      213: 3658671942821979761
+    second: Rat3_Idle_with_shadow_22
+  - first:
+      213: -4387433305953019669
+    second: Rat3_Idle_with_shadow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 433
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de51ec21906263770800000000000000
+      internalID: 8590095159667856877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 434
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd26d351eda53f4d0800000000000000
+      internalID: -3102035808442555685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 435
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7142285b24cffa420800000000000000
+      internalID: 2643608869733016599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 435
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db22612259a9b1360800000000000000
+      internalID: 7141471599438734013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 435
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a09e9450b412ae0800000000000000
+      internalID: -1575895908516034027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 434
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8250e58d4adea8f30800000000000000
+      internalID: 4578733263435990312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9246ff8a76fe4e60800000000000000
+      internalID: 7948561398617227930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 306
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb300677f21493c0800000000000000
+      internalID: -4353834085714478149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 304
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595e3bee15404d100800000000000000
+      internalID: 131735039044216213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 303
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910e1817a65827a40800000000000000
+      internalID: 5364496798369046553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 304
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217df87d133d84510800000000000000
+      internalID: 1533707884143040274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 306
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d9b0daac0261690800000000000000
+      internalID: -7631876463674024674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 180
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5449a14fed403360800000000000000
+      internalID: 7147298298631111770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 180
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732c108ff1a669e90800000000000000
+      internalID: -7019306283672944073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 180
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bad5d3ab14888e0800000000000000
+      internalID: -1691029391928349837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 180
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed8a6295ae60a5e0800000000000000
+      internalID: -1900397385345233430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 180
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f82c1b8fdf1b02d0800000000000000
+      internalID: -3311518056028821262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 180
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38b104522c8b1c20800000000000000
+      internalID: 3178288041106192447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 52
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ecafbe9fbaf8f70800000000000000
+      internalID: 9191754454380760702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 52
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5116b109b40cb7a50800000000000000
+      internalID: 6520016316321718549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 52
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd35eb43fc3e1ee40800000000000000
+      internalID: 5684074683800900575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 52
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12acce1ea6110e7b0800000000000000
+      internalID: -5197134819230954975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 52
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176a79d5fb636c230800000000000000
+      internalID: 3658671942821979761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Idle_with_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 52
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8d3f267a4bc13c0800000000000000
+      internalID: -4387433305953019669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat3_Idle_with_shadow_0: 8590095159667856877
+      Rat3_Idle_with_shadow_1: -3102035808442555685
+      Rat3_Idle_with_shadow_10: 1533707884143040274
+      Rat3_Idle_with_shadow_11: -7631876463674024674
+      Rat3_Idle_with_shadow_12: 7147298298631111770
+      Rat3_Idle_with_shadow_13: -7019306283672944073
+      Rat3_Idle_with_shadow_14: -1691029391928349837
+      Rat3_Idle_with_shadow_15: -1900397385345233430
+      Rat3_Idle_with_shadow_16: -3311518056028821262
+      Rat3_Idle_with_shadow_17: 3178288041106192447
+      Rat3_Idle_with_shadow_18: 9191754454380760702
+      Rat3_Idle_with_shadow_19: 6520016316321718549
+      Rat3_Idle_with_shadow_2: 2643608869733016599
+      Rat3_Idle_with_shadow_20: 5684074683800900575
+      Rat3_Idle_with_shadow_21: -5197134819230954975
+      Rat3_Idle_with_shadow_22: 3658671942821979761
+      Rat3_Idle_with_shadow_23: -4387433305953019669
+      Rat3_Idle_with_shadow_3: 7141471599438734013
+      Rat3_Idle_with_shadow_4: -1575895908516034027
+      Rat3_Idle_with_shadow_5: 4578733263435990312
+      Rat3_Idle_with_shadow_6: 7948561398617227930
+      Rat3_Idle_with_shadow_7: -4353834085714478149
+      Rat3_Idle_with_shadow_8: 131735039044216213
+      Rat3_Idle_with_shadow_9: 5364496798369046553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

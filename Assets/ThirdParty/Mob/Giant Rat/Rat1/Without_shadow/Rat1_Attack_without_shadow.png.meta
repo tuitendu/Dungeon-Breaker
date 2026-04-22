@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: bf94c03d33594e34591997002601af0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1002767145675875361
+    second: Rat1_Attack_without_shadow_0
+  - first:
+      213: 5408297256158045350
+    second: Rat1_Attack_without_shadow_1
+  - first:
+      213: 1682942559551662765
+    second: Rat1_Attack_without_shadow_2
+  - first:
+      213: -1419895639409249997
+    second: Rat1_Attack_without_shadow_3
+  - first:
+      213: 1151765002278662989
+    second: Rat1_Attack_without_shadow_4
+  - first:
+      213: -5370996706383250405
+    second: Rat1_Attack_without_shadow_5
+  - first:
+      213: 7670943701126349747
+    second: Rat1_Attack_without_shadow_6
+  - first:
+      213: 3296772547920128192
+    second: Rat1_Attack_without_shadow_7
+  - first:
+      213: -4917169373406610481
+    second: Rat1_Attack_without_shadow_8
+  - first:
+      213: -1537709919493205981
+    second: Rat1_Attack_without_shadow_9
+  - first:
+      213: 945364666395299720
+    second: Rat1_Attack_without_shadow_10
+  - first:
+      213: 8260441268541590237
+    second: Rat1_Attack_without_shadow_11
+  - first:
+      213: 4008011107604265890
+    second: Rat1_Attack_without_shadow_12
+  - first:
+      213: 1501827049326184716
+    second: Rat1_Attack_without_shadow_13
+  - first:
+      213: -2806705201797358713
+    second: Rat1_Attack_without_shadow_14
+  - first:
+      213: -7524185730095457808
+    second: Rat1_Attack_without_shadow_15
+  - first:
+      213: -2279221074326235069
+    second: Rat1_Attack_without_shadow_16
+  - first:
+      213: 6723101419324416861
+    second: Rat1_Attack_without_shadow_17
+  - first:
+      213: -4484525455434751712
+    second: Rat1_Attack_without_shadow_18
+  - first:
+      213: 2182119408676723398
+    second: Rat1_Attack_without_shadow_19
+  - first:
+      213: 1440170966516323230
+    second: Rat1_Attack_without_shadow_20
+  - first:
+      213: -9128951986478712522
+    second: Rat1_Attack_without_shadow_21
+  - first:
+      213: -3149442161522775041
+    second: Rat1_Attack_without_shadow_22
+  - first:
+      213: -3163099276857003415
+    second: Rat1_Attack_without_shadow_23
+  - first:
+      213: -8917320380372729880
+    second: Rat1_Attack_without_shadow_24
+  - first:
+      213: -9048139961334376535
+    second: Rat1_Attack_without_shadow_25
+  - first:
+      213: 8602188575666802854
+    second: Rat1_Attack_without_shadow_26
+  - first:
+      213: -376689563855663113
+    second: Rat1_Attack_without_shadow_27
+  - first:
+      213: 335418681306184162
+    second: Rat1_Attack_without_shadow_28
+  - first:
+      213: -3534010775809831931
+    second: Rat1_Attack_without_shadow_29
+  - first:
+      213: -3563966899674515470
+    second: Rat1_Attack_without_shadow_30
+  - first:
+      213: 7129997406563953580
+    second: Rat1_Attack_without_shadow_31
+  - first:
+      213: 8177928736850013166
+    second: Rat1_Attack_without_shadow_32
+  - first:
+      213: -3220822234148193239
+    second: Rat1_Attack_without_shadow_33
+  - first:
+      213: -838576611543590508
+    second: Rat1_Attack_without_shadow_34
+  - first:
+      213: -2408694109517693023
+    second: Rat1_Attack_without_shadow_35
+  - first:
+      213: -3303322315842419664
+    second: Rat1_Attack_without_shadow_36
+  - first:
+      213: 7646354505233093622
+    second: Rat1_Attack_without_shadow_37
+  - first:
+      213: -1225746302286218179
+    second: Rat1_Attack_without_shadow_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 434
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb9e8908947512f0800000000000000
+      internalID: -1002767145675875361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 437
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4250933b12e0b40800000000000000
+      internalID: 5408297256158045350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 448
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaa67f57530b5710800000000000000
+      internalID: 1682942559551662765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 448
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331b2ea50748b4ce0800000000000000
+      internalID: -1419895639409249997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 428
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43fb81da24ebff00800000000000000
+      internalID: 1151765002278662989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 428
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cbb3ac3f26675b0800000000000000
+      internalID: -5370996706383250405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 428
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b308ad57aaa47a60800000000000000
+      internalID: 7670943701126349747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 430
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8e9005a2d70cd20800000000000000
+      internalID: 3296772547920128192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 417
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb3ba5d184b2cbb0800000000000000
+      internalID: -4917169373406610481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 416
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3205301b9f4f8aae0800000000000000
+      internalID: -1537709919493205981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 414
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f82b3c72c9e1d00800000000000000
+      internalID: 945364666395299720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 305
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda066b619bf2a270800000000000000
+      internalID: 8260441268541590237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 305
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab7294fdd05f9730800000000000000
+      internalID: 4008011107604265890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 305
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09092d8ebf87d410800000000000000
+      internalID: 1501827049326184716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 305
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b90a15d749c09d0800000000000000
+      internalID: -2806705201797358713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 313
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9d89d71f8b49790800000000000000
+      internalID: -7524185730095457808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348533c32849e50e0800000000000000
+      internalID: -2279221074326235069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 308
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53a1cfce114d4d50800000000000000
+      internalID: 6723101419324416861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 309
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0216d9abbd3c3c1c0800000000000000
+      internalID: -4484525455434751712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 183
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca59a37a02784e10800000000000000
+      internalID: 2182119408676723398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 183
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93590b1dd38cf310800000000000000
+      internalID: 1440170966516323230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 183
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639f65a19827f4180800000000000000
+      internalID: -9128951986478712522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 183
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbebc16a0fea44d0800000000000000
+      internalID: -3149442161522775041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 182
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962b4ad67f96a14d0800000000000000
+      internalID: -3163099276857003415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 172
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef388b2c505f3480800000000000000
+      internalID: -8917320380372729880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 169
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7d5aee4ac8e6280800000000000000
+      internalID: -9048139961334376535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 183
+        width: 66
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a01b87eeec116770800000000000000
+      internalID: 8602188575666802854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 183
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff49c366dab5caf0800000000000000
+      internalID: -376689563855663113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 171
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9f8467385a7a400800000000000000
+      internalID: 335418681306184162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 55
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cc3736ceba4fec0800000000000000
+      internalID: -3534010775809831931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 55
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f776a9ccfe3a8ec0800000000000000
+      internalID: -3563966899674515470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 55
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab63bb6dd6d2f260800000000000000
+      internalID: 7129997406563953580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 55
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb676e8bd6dd7170800000000000000
+      internalID: 8177928736850013166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 54
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cbae02e375d43d0800000000000000
+      internalID: -3220822234148193239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 44
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4995ef7c307cc54f0800000000000000
+      internalID: -838576611543590508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 55
+        width: 66
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af3f9d1879929ed0800000000000000
+      internalID: -2408694109517693023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_36
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 41
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03487910bdd3822d0800000000000000
+      internalID: -3303322315842419664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_37
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 55
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3502f09ee4d1a60800000000000000
+      internalID: 7646354505233093622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat1_Attack_without_shadow_38
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 43
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c3b7b7b364dfee0800000000000000
+      internalID: -1225746302286218179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat1_Attack_without_shadow_0: -1002767145675875361
+      Rat1_Attack_without_shadow_1: 5408297256158045350
+      Rat1_Attack_without_shadow_10: 945364666395299720
+      Rat1_Attack_without_shadow_11: 8260441268541590237
+      Rat1_Attack_without_shadow_12: 4008011107604265890
+      Rat1_Attack_without_shadow_13: 1501827049326184716
+      Rat1_Attack_without_shadow_14: -2806705201797358713
+      Rat1_Attack_without_shadow_15: -7524185730095457808
+      Rat1_Attack_without_shadow_16: -2279221074326235069
+      Rat1_Attack_without_shadow_17: 6723101419324416861
+      Rat1_Attack_without_shadow_18: -4484525455434751712
+      Rat1_Attack_without_shadow_19: 2182119408676723398
+      Rat1_Attack_without_shadow_2: 1682942559551662765
+      Rat1_Attack_without_shadow_20: 1440170966516323230
+      Rat1_Attack_without_shadow_21: -9128951986478712522
+      Rat1_Attack_without_shadow_22: -3149442161522775041
+      Rat1_Attack_without_shadow_23: -3163099276857003415
+      Rat1_Attack_without_shadow_24: -8917320380372729880
+      Rat1_Attack_without_shadow_25: -9048139961334376535
+      Rat1_Attack_without_shadow_26: 8602188575666802854
+      Rat1_Attack_without_shadow_27: -376689563855663113
+      Rat1_Attack_without_shadow_28: 335418681306184162
+      Rat1_Attack_without_shadow_29: -3534010775809831931
+      Rat1_Attack_without_shadow_3: -1419895639409249997
+      Rat1_Attack_without_shadow_30: -3563966899674515470
+      Rat1_Attack_without_shadow_31: 7129997406563953580
+      Rat1_Attack_without_shadow_32: 8177928736850013166
+      Rat1_Attack_without_shadow_33: -3220822234148193239
+      Rat1_Attack_without_shadow_34: -838576611543590508
+      Rat1_Attack_without_shadow_35: -2408694109517693023
+      Rat1_Attack_without_shadow_36: -3303322315842419664
+      Rat1_Attack_without_shadow_37: 7646354505233093622
+      Rat1_Attack_without_shadow_38: -1225746302286218179
+      Rat1_Attack_without_shadow_4: 1151765002278662989
+      Rat1_Attack_without_shadow_5: -5370996706383250405
+      Rat1_Attack_without_shadow_6: 7670943701126349747
+      Rat1_Attack_without_shadow_7: 3296772547920128192
+      Rat1_Attack_without_shadow_8: -4917169373406610481
+      Rat1_Attack_without_shadow_9: -1537709919493205981
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

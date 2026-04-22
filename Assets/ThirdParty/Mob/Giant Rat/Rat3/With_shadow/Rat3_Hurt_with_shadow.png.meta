@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 2b988af606888ee4ababeeb4f265dd10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4807223406748299010
+    second: Rat3_Hurt_with_shadow_0
+  - first:
+      213: 2530472785764109143
+    second: Rat3_Hurt_with_shadow_1
+  - first:
+      213: 6343901949315506426
+    second: Rat3_Hurt_with_shadow_2
+  - first:
+      213: 605160522625109448
+    second: Rat3_Hurt_with_shadow_3
+  - first:
+      213: 2061958767817389580
+    second: Rat3_Hurt_with_shadow_4
+  - first:
+      213: 3338401436223288113
+    second: Rat3_Hurt_with_shadow_5
+  - first:
+      213: -5239286350570247744
+    second: Rat3_Hurt_with_shadow_6
+  - first:
+      213: -8029589430855119286
+    second: Rat3_Hurt_with_shadow_7
+  - first:
+      213: -6041549943414161220
+    second: Rat3_Hurt_with_shadow_8
+  - first:
+      213: -8039859248051233884
+    second: Rat3_Hurt_with_shadow_9
+  - first:
+      213: 9051213700601338
+    second: Rat3_Hurt_with_shadow_10
+  - first:
+      213: 7551465247917814060
+    second: Rat3_Hurt_with_shadow_11
+  - first:
+      213: 2417363683885459736
+    second: Rat3_Hurt_with_shadow_12
+  - first:
+      213: -8689808291472435435
+    second: Rat3_Hurt_with_shadow_13
+  - first:
+      213: -995556543946461905
+    second: Rat3_Hurt_with_shadow_14
+  - first:
+      213: 9203993145359489470
+    second: Rat3_Hurt_with_shadow_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 433
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fec2bf730b6b240800000000000000
+      internalID: 4807223406748299010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 435
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b4345779b0e1320800000000000000
+      internalID: 2530472785764109143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 435
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0ebd226311a0850800000000000000
+      internalID: 6343901949315506426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 435
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdc82ff946f56800800000000000000
+      internalID: 605160522625109448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06f149139c8d9c10800000000000000
+      internalID: 2061958767817389580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 305
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1333ebb2b62645e20800000000000000
+      internalID: 3338401436223288113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 303
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c925b5b2d05a47b0800000000000000
+      internalID: -5239286350570247744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 305
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e46a984fa219090800000000000000
+      internalID: -8029589430855119286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 180
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb08402065a182ca0800000000000000
+      internalID: -6041549943414161220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 180
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab54c36c9eac6090800000000000000
+      internalID: -8039859248051233884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 180
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af51969e708202000800000000000000
+      internalID: 9051213700601338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 180
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2139d332a13cc860800000000000000
+      internalID: 7551465247917814060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 52
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8192ce676733c8120800000000000000
+      internalID: 2417363683885459736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 52
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5179a844669976780800000000000000
+      internalID: -8689808291472435435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 52
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d614419921f22f0800000000000000
+      internalID: -995556543946461905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat3_Hurt_with_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 52
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9584830072bbf70800000000000000
+      internalID: 9203993145359489470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat3_Hurt_with_shadow_0: 4807223406748299010
+      Rat3_Hurt_with_shadow_1: 2530472785764109143
+      Rat3_Hurt_with_shadow_10: 9051213700601338
+      Rat3_Hurt_with_shadow_11: 7551465247917814060
+      Rat3_Hurt_with_shadow_12: 2417363683885459736
+      Rat3_Hurt_with_shadow_13: -8689808291472435435
+      Rat3_Hurt_with_shadow_14: -995556543946461905
+      Rat3_Hurt_with_shadow_15: 9203993145359489470
+      Rat3_Hurt_with_shadow_2: 6343901949315506426
+      Rat3_Hurt_with_shadow_3: 605160522625109448
+      Rat3_Hurt_with_shadow_4: 2061958767817389580
+      Rat3_Hurt_with_shadow_5: 3338401436223288113
+      Rat3_Hurt_with_shadow_6: -5239286350570247744
+      Rat3_Hurt_with_shadow_7: -8029589430855119286
+      Rat3_Hurt_with_shadow_8: -6041549943414161220
+      Rat3_Hurt_with_shadow_9: -8039859248051233884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

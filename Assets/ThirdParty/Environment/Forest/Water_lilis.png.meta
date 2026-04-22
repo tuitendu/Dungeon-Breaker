@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: c67ffc46db9b721459e5fbc34d496e3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5775003376408214934
+    second: Water_lilis_0
+  - first:
+      213: 5529444301077938841
+    second: Water_lilis_1
+  - first:
+      213: -4922478185592185385
+    second: Water_lilis_2
+  - first:
+      213: 131921579086390553
+    second: Water_lilis_3
+  - first:
+      213: -7132922161712368775
+    second: Water_lilis_4
+  - first:
+      213: 7258598599072696701
+    second: Water_lilis_5
+  - first:
+      213: 2577764105824964284
+    second: Water_lilis_6
+  - first:
+      213: -1956411226547665677
+    second: Water_lilis_7
+  - first:
+      213: -4083104433198488650
+    second: Water_lilis_8
+  - first:
+      213: -4508175932960084482
+    second: Water_lilis_9
+  - first:
+      213: -3799719566806715879
+    second: Water_lilis_10
+  - first:
+      213: 5886157663159924200
+    second: Water_lilis_11
+  - first:
+      213: -6836810990388867569
+    second: Water_lilis_12
+  - first:
+      213: -7008177750482779430
+    second: Water_lilis_13
+  - first:
+      213: 2653551454072860042
+    second: Water_lilis_14
+  - first:
+      213: -4356187251053090126
+    second: Water_lilis_15
+  - first:
+      213: -2243707601701267411
+    second: Water_lilis_16
+  - first:
+      213: 6679780942383887058
+    second: Water_lilis_17
+  - first:
+      213: -6290476306510884044
+    second: Water_lilis_18
+  - first:
+      213: -6682856101260354461
+    second: Water_lilis_19
+  - first:
+      213: 5366334120385991784
+    second: Water_lilis_20
+  - first:
+      213: -5538772222488321567
+    second: Water_lilis_21
+  - first:
+      213: -7116467935898774189
+    second: Water_lilis_22
+  - first:
+      213: 3370050054215269409
+    second: Water_lilis_23
+  - first:
+      213: 2886130872442611576
+    second: Water_lilis_24
+  - first:
+      213: 1381070415828788254
+    second: Water_lilis_25
+  - first:
+      213: -7803885696649976859
+    second: Water_lilis_26
+  - first:
+      213: -1973033807997194210
+    second: Water_lilis_27
+  - first:
+      213: -3102254053945770102
+    second: Water_lilis_28
+  - first:
+      213: -833469759705636130
+    second: Water_lilis_29
+  - first:
+      213: -6407217233243235427
+    second: Water_lilis_30
+  - first:
+      213: 6667279341531575458
+    second: Water_lilis_31
+  - first:
+      213: -3144524630053890384
+    second: Water_lilis_32
+  - first:
+      213: -595167305075055537
+    second: Water_lilis_33
+  - first:
+      213: 379226946179431895
+    second: Water_lilis_34
+  - first:
+      213: 400361914090668208
+    second: Water_lilis_35
+  - first:
+      213: 5284678272266682137
+    second: Water_lilis_36
+  - first:
+      213: -8096136829058364369
+    second: Water_lilis_37
+  - first:
+      213: -122280076260237654
+    second: Water_lilis_38
+  - first:
+      213: 8266219497638664135
+    second: Water_lilis_39
+  - first:
+      213: -7583510184963097690
+    second: Water_lilis_40
+  - first:
+      213: 3774675895757316817
+    second: Water_lilis_41
+  - first:
+      213: 8217415466626989001
+    second: Water_lilis_42
+  - first:
+      213: -8655395793600142400
+    second: Water_lilis_43
+  - first:
+      213: 4797435613424924093
+    second: Water_lilis_44
+  - first:
+      213: 3457139889953207129
+    second: Water_lilis_45
+  - first:
+      213: -3800595953940760884
+    second: Water_lilis_46
+  - first:
+      213: -8726792753918947012
+    second: Water_lilis_47
+  - first:
+      213: -9058432951669265564
+    second: Water_lilis_48
+  - first:
+      213: 8968385186448525498
+    second: Water_lilis_49
+  - first:
+      213: 4267226163799938720
+    second: Water_lilis_50
+  - first:
+      213: -8004988176820231171
+    second: Water_lilis_51
+  - first:
+      213: -3500679562879136614
+    second: Water_lilis_52
+  - first:
+      213: -3585478101800170921
+    second: Water_lilis_53
+  - first:
+      213: -2006084662593684821
+    second: Water_lilis_54
+  - first:
+      213: -1297912792277472073
+    second: Water_lilis_55
+  - first:
+      213: 1403036079480215503
+    second: Water_lilis_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water_lilis_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 170
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d3e7b39fee42050800000000000000
+      internalID: 5775003376408214934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 171
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9920f0bab488cbc40800000000000000
+      internalID: 5529444301077938841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd1b2dab28dfabb0800000000000000
+      internalID: -4922478185592185385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 167
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91527ab2afda4d100800000000000000
+      internalID: 131921579086390553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 170
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9737f94f515c20d90800000000000000
+      internalID: -7132922161712368775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 165
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7940e8d7f8bbb460800000000000000
+      internalID: 7258598599072696701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 170
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe0372fbce06c320800000000000000
+      internalID: 2577764105824964284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 164
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f44a0fda5e69d4e0800000000000000
+      internalID: -1956411226547665677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 167
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3a166b626e557c0800000000000000
+      internalID: -4083104433198488650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 166
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efde2f2dfddbf61c0800000000000000
+      internalID: -4508175932960084482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 138
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912726e8f2fa44bc0800000000000000
+      internalID: -3799719566806715879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 139
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5379c5535dfa150800000000000000
+      internalID: 5886157663159924200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 151
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e826190a4ce11a0800000000000000
+      internalID: -6836810990388867569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 135
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad28da38773fdbe90800000000000000
+      internalID: -7008177750482779430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 138
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8deb350dfe43d420800000000000000
+      internalID: 2653551454072860042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 133
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba25e576c6bb83c0800000000000000
+      internalID: -4356187251053090126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 138
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2890cce2dfbcd0e0800000000000000
+      internalID: -2243707601701267411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d23738406953bc50800000000000000
+      internalID: 6679780942383887058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 135
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433586aa02db3b8a0800000000000000
+      internalID: -6290476306510884044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 134
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c135f78c9b143a0800000000000000
+      internalID: -6682856101260354461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 106
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8645aaf437c097a40800000000000000
+      internalID: 5366334120385991784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 107
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e168c262045223b0800000000000000
+      internalID: -5538772222488321567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355db41fd1a3d3d90800000000000000
+      internalID: -7116467935898774189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 103
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c79c44ba2d4ce20800000000000000
+      internalID: 3370050054215269409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877ea33bcb89d0820800000000000000
+      internalID: 2886130872442611576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 101
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14a649d93c8a2310800000000000000
+      internalID: 1381070415828788254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_26
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e32d6f3e4703b390800000000000000
+      internalID: -7803885696649976859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 100
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10bd7884306e94e0800000000000000
+      internalID: -1973033807997194210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 103
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ffb87df5492f4d0800000000000000
+      internalID: -3102254053945770102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 102
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed227b16babee64f0800000000000000
+      internalID: -833469759705636130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 74
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b96cd8fddf417a0800000000000000
+      internalID: -6407217233243235427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 75
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a43a428c3fe68c50800000000000000
+      internalID: 6667279341531575458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 87
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6db2662876c54d0800000000000000
+      internalID: -3144524630053890384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 71
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4423174d7a8db7f0800000000000000
+      internalID: -595167305075055537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_34
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 74
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddf748f5e8434500800000000000000
+      internalID: 379226946179431895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 69
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b048f62a0f5e8500800000000000000
+      internalID: 400361914090668208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 74
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f3ea2a3e2f65940800000000000000
+      internalID: 5284678272266682137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 68
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cc40bf27eb4af80800000000000000
+      internalID: -8096136829058364369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_38
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 70
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae96632be29d4ef0800000000000000
+      internalID: -122280076260237654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 42
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7192836d287b270800000000000000
+      internalID: 8266219497638664135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 43
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abb7ba7aa5f1c690800000000000000
+      internalID: -7583510184963097690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 55
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d228d46ab7526430800000000000000
+      internalID: 3774675895757316817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 39
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb3a1444df1a0270800000000000000
+      internalID: 8217415466626989001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 42
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3ad0c426bd1e780800000000000000
+      internalID: -8655395793600142400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 37
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db53003c54ae39240800000000000000
+      internalID: 4797435613424924093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_45
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 42
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9537e77c96a3aff20800000000000000
+      internalID: 3457139889953207129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6f296cd12914bc0800000000000000
+      internalID: -3800595953940760884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 39
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3155321a3434e680800000000000000
+      internalID: -8726792753918947012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_48
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 38
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b6f0e593bf94280800000000000000
+      internalID: -9058432951669265564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8c32f7fca167c70800000000000000
+      internalID: 8968385186448525498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_50
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 11
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a65c85569b383b30800000000000000
+      internalID: 4267226163799938720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_51
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3ad695aa198e090800000000000000
+      internalID: -8004988176820231171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_52
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 7
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c8e162c761b6fc0800000000000000
+      internalID: -3500679562879136614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a4240c9a2dd3ec0800000000000000
+      internalID: -3585478101800170921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_54
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa7eb8c0a4f824e0800000000000000
+      internalID: -2006084662593684821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcadda2133ecfde0800000000000000
+      internalID: -1297912792277472073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_lilis_56
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 6
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7997471e5987310800000000000000
+      internalID: 1403036079480215503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Water_lilis_0: 5775003376408214934
+      Water_lilis_1: 5529444301077938841
+      Water_lilis_10: -3799719566806715879
+      Water_lilis_11: 5886157663159924200
+      Water_lilis_12: -6836810990388867569
+      Water_lilis_13: -7008177750482779430
+      Water_lilis_14: 2653551454072860042
+      Water_lilis_15: -4356187251053090126
+      Water_lilis_16: -2243707601701267411
+      Water_lilis_17: 6679780942383887058
+      Water_lilis_18: -6290476306510884044
+      Water_lilis_19: -6682856101260354461
+      Water_lilis_2: -4922478185592185385
+      Water_lilis_20: 5366334120385991784
+      Water_lilis_21: -5538772222488321567
+      Water_lilis_22: -7116467935898774189
+      Water_lilis_23: 3370050054215269409
+      Water_lilis_24: 2886130872442611576
+      Water_lilis_25: 1381070415828788254
+      Water_lilis_26: -7803885696649976859
+      Water_lilis_27: -1973033807997194210
+      Water_lilis_28: -3102254053945770102
+      Water_lilis_29: -833469759705636130
+      Water_lilis_3: 131921579086390553
+      Water_lilis_30: -6407217233243235427
+      Water_lilis_31: 6667279341531575458
+      Water_lilis_32: -3144524630053890384
+      Water_lilis_33: -595167305075055537
+      Water_lilis_34: 379226946179431895
+      Water_lilis_35: 400361914090668208
+      Water_lilis_36: 5284678272266682137
+      Water_lilis_37: -8096136829058364369
+      Water_lilis_38: -122280076260237654
+      Water_lilis_39: 8266219497638664135
+      Water_lilis_4: -7132922161712368775
+      Water_lilis_40: -7583510184963097690
+      Water_lilis_41: 3774675895757316817
+      Water_lilis_42: 8217415466626989001
+      Water_lilis_43: -8655395793600142400
+      Water_lilis_44: 4797435613424924093
+      Water_lilis_45: 3457139889953207129
+      Water_lilis_46: -3800595953940760884
+      Water_lilis_47: -8726792753918947012
+      Water_lilis_48: -9058432951669265564
+      Water_lilis_49: 8968385186448525498
+      Water_lilis_5: 7258598599072696701
+      Water_lilis_50: 4267226163799938720
+      Water_lilis_51: -8004988176820231171
+      Water_lilis_52: -3500679562879136614
+      Water_lilis_53: -3585478101800170921
+      Water_lilis_54: -2006084662593684821
+      Water_lilis_55: -1297912792277472073
+      Water_lilis_56: 1403036079480215503
+      Water_lilis_6: 2577764105824964284
+      Water_lilis_7: -1956411226547665677
+      Water_lilis_8: -4083104433198488650
+      Water_lilis_9: -4508175932960084482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

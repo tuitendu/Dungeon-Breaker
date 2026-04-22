@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: 7cc61dd6c00cd3a4aad68ba22a43bea2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7119321108512604247
+    second: Flying_rocks_0
+  - first:
+      213: -8275790957581076941
+    second: Flying_rocks_1
+  - first:
+      213: 8382721584069857590
+    second: Flying_rocks_2
+  - first:
+      213: -1169281281350579699
+    second: Flying_rocks_3
+  - first:
+      213: -3866004349190148492
+    second: Flying_rocks_4
+  - first:
+      213: -3691747214238917993
+    second: Flying_rocks_5
+  - first:
+      213: -8533904268142777642
+    second: Flying_rocks_6
+  - first:
+      213: -4655423768908983009
+    second: Flying_rocks_7
+  - first:
+      213: 7252924816315375121
+    second: Flying_rocks_8
+  - first:
+      213: 4233260441500011406
+    second: Flying_rocks_9
+  - first:
+      213: 4675638220305402278
+    second: Flying_rocks_10
+  - first:
+      213: -9091935267256471752
+    second: Flying_rocks_11
+  - first:
+      213: 3257933173284704578
+    second: Flying_rocks_12
+  - first:
+      213: -7704759632678804037
+    second: Flying_rocks_13
+  - first:
+      213: 5134772217788424231
+    second: Flying_rocks_14
+  - first:
+      213: -555928357195721098
+    second: Flying_rocks_15
+  - first:
+      213: 5404354242028025189
+    second: Flying_rocks_16
+  - first:
+      213: 2325839020883928205
+    second: Flying_rocks_17
+  - first:
+      213: -6742324742243940450
+    second: Flying_rocks_18
+  - first:
+      213: 850361663377863021
+    second: Flying_rocks_19
+  - first:
+      213: 7816840614169982036
+    second: Flying_rocks_20
+  - first:
+      213: -5009470107585262853
+    second: Flying_rocks_21
+  - first:
+      213: -2861866824674569792
+    second: Flying_rocks_22
+  - first:
+      213: 3873631339061227989
+    second: Flying_rocks_23
+  - first:
+      213: -8459997831094040091
+    second: Flying_rocks_24
+  - first:
+      213: -6445111805432861612
+    second: Flying_rocks_25
+  - first:
+      213: -8931593337293300221
+    second: Flying_rocks_26
+  - first:
+      213: -1020667362231362180
+    second: Flying_rocks_27
+  - first:
+      213: -1886964229480277559
+    second: Flying_rocks_28
+  - first:
+      213: -1559395393395777169
+    second: Flying_rocks_29
+  - first:
+      213: 961380256269574809
+    second: Flying_rocks_30
+  - first:
+      213: 2427163657934430909
+    second: Flying_rocks_31
+  - first:
+      213: 5980123725644524029
+    second: Flying_rocks_32
+  - first:
+      213: 10182478311493203
+    second: Flying_rocks_33
+  - first:
+      213: 7057431415194223132
+    second: Flying_rocks_34
+  - first:
+      213: -7230771170171939152
+    second: Flying_rocks_35
+  - first:
+      213: 3090418112616673376
+    second: Flying_rocks_36
+  - first:
+      213: -8982815796312828287
+    second: Flying_rocks_37
+  - first:
+      213: 8720971400575608608
+    second: Flying_rocks_38
+  - first:
+      213: -646975205320519803
+    second: Flying_rocks_39
+  - first:
+      213: 9156612276222848992
+    second: Flying_rocks_40
+  - first:
+      213: -1019427457295435748
+    second: Flying_rocks_41
+  - first:
+      213: -3807066146368718701
+    second: Flying_rocks_42
+  - first:
+      213: -8649435233239685050
+    second: Flying_rocks_43
+  - first:
+      213: -8771534617404406879
+    second: Flying_rocks_44
+  - first:
+      213: -3188565101445349709
+    second: Flying_rocks_45
+  - first:
+      213: 1946489474922993914
+    second: Flying_rocks_46
+  - first:
+      213: 3688065377724136996
+    second: Flying_rocks_47
+  - first:
+      213: 9045231111925148838
+    second: Flying_rocks_48
+  - first:
+      213: 7969673000137846473
+    second: Flying_rocks_49
+  - first:
+      213: 3231939415932187925
+    second: Flying_rocks_50
+  - first:
+      213: 5955632016747267818
+    second: Flying_rocks_51
+  - first:
+      213: -4715264059466198381
+    second: Flying_rocks_52
+  - first:
+      213: 4804006366943365396
+    second: Flying_rocks_53
+  - first:
+      213: 4603777927987859987
+    second: Flying_rocks_54
+  - first:
+      213: -7173244603667353861
+    second: Flying_rocks_55
+  - first:
+      213: -6892075687630690877
+    second: Flying_rocks_56
+  - first:
+      213: 3019109362011435018
+    second: Flying_rocks_57
+  - first:
+      213: -4803281222709105533
+    second: Flying_rocks_58
+  - first:
+      213: -1156162215664303808
+    second: Flying_rocks_59
+  - first:
+      213: -5633715888858823002
+    second: Flying_rocks_60
+  - first:
+      213: -3900650422434246287
+    second: Flying_rocks_61
+  - first:
+      213: 863387328860246193
+    second: Flying_rocks_62
+  - first:
+      213: 232951072967995538
+    second: Flying_rocks_63
+  - first:
+      213: 6917532937459345225
+    second: Flying_rocks_64
+  - first:
+      213: -4224279584130322513
+    second: Flying_rocks_65
+  - first:
+      213: -634191827877748494
+    second: Flying_rocks_66
+  - first:
+      213: -3385734966643610298
+    second: Flying_rocks_67
+  - first:
+      213: -6867480822019690990
+    second: Flying_rocks_68
+  - first:
+      213: -6109986807784528320
+    second: Flying_rocks_69
+  - first:
+      213: 4022080545022691456
+    second: Flying_rocks_70
+  - first:
+      213: 7529142352754392562
+    second: Flying_rocks_71
+  - first:
+      213: 5664863100873845856
+    second: Flying_rocks_72
+  - first:
+      213: -363314647029380153
+    second: Flying_rocks_73
+  - first:
+      213: 2250217692169507241
+    second: Flying_rocks_74
+  - first:
+      213: 6495377784678171280
+    second: Flying_rocks_75
+  - first:
+      213: -5248655758194581479
+    second: Flying_rocks_76
+  - first:
+      213: 2098972325235708737
+    second: Flying_rocks_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flying_rocks_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 146
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75085d214d8ecc260800000000000000
+      internalID: 7119321108512604247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 162
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3367df998fb762d80800000000000000
+      internalID: -8275790957581076941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 138
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631db7dfdd8655470800000000000000
+      internalID: 8382721584069857590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 161
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ac596aed0e5cfe0800000000000000
+      internalID: -1169281281350579699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 139
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ee7620781395ac0800000000000000
+      internalID: -3866004349190148492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 160
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a50c6e77744ccc0800000000000000
+      internalID: -3691747214238917993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 140
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dae82e584b719980800000000000000
+      internalID: -8533904268142777642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 159
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1515476fbc946fb0800000000000000
+      internalID: -4655423768908983009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 141
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ed71b51b097a460800000000000000
+      internalID: 7252924816315375121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 146
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b425951ff8fba30800000000000000
+      internalID: 4233260441500011406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 160
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a90b83503433e040800000000000000
+      internalID: 4675638220305402278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 140
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fe45aab05f2d180800000000000000
+      internalID: -9091935267256471752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 147
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2419897b5f0863d20800000000000000
+      internalID: 3257933173284704578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 161
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb529668fe1331590800000000000000
+      internalID: -7704759632678804037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 139
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e2db7020624740800000000000000
+      internalID: 5134772217788424231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 145
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67658c4ca12f848f0800000000000000
+      internalID: -555928357195721098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565b474bc8f100b40800000000000000
+      internalID: 5404354242028025189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 145
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d846784444a074020800000000000000
+      internalID: 2325839020883928205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 118
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97093a8e537e62a0800000000000000
+      internalID: -6742324742243940450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 129
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d617f3c6d671dcb00800000000000000
+      internalID: 850361663377863021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 117
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454b2798f1ffa7c60800000000000000
+      internalID: 7816840614169982036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 130
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa417c7a79ca7ab0800000000000000
+      internalID: -5009470107585262853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 116
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c11cc8294b9848d0800000000000000
+      internalID: -2861866824674569792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 131
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1b093fd27e1c530800000000000000
+      internalID: 3873631339061227989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 117
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9801dabcc089a80800000000000000
+      internalID: -8459997831094040091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 130
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c6f7be5fc5e86a0800000000000000
+      internalID: -6445111805432861612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 118
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e136c6e2b9c0480800000000000000
+      internalID: -8931593337293300221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 129
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d5d58117cd5d1f0800000000000000
+      internalID: -1020667362231362180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 119
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c995f5e70820d5e0800000000000000
+      internalID: -1886964229480277559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_29
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 128
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61a348d62aeb5ae0800000000000000
+      internalID: -1559395393395777169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 93
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992a50ddf32875d00800000000000000
+      internalID: 961380256269574809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 76
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db26beabc740fa120800000000000000
+      internalID: 2427163657934430909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 92
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df96deb28daadf250800000000000000
+      internalID: 5980123725644524029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 75
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e80baf8ec242000800000000000000
+      internalID: 10182478311493203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c128551fa7801f160800000000000000
+      internalID: 7057431415194223132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 76
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b614c55ee327ab90800000000000000
+      internalID: -7230771170171939152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 92
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06033f156ee53ea20800000000000000
+      internalID: 3090418112616673376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 77
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186910250a0a65380800000000000000
+      internalID: -8982815796312828287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_38
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 93
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02766ab784d170970800000000000000
+      internalID: 8720971400575608608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_39
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 78
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f82648a7b7507f0800000000000000
+      internalID: -646975205320519803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 94
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef6e36f952d21f70800000000000000
+      internalID: 9156612276222848992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 77
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1830a5f0244ad1f0800000000000000
+      internalID: -1019427457295435748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 62
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398f645b2859a2bc0800000000000000
+      internalID: -3807066146368718701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 69
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64820076b7807f780800000000000000
+      internalID: -8649435233239685050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 61
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a381923dbf354680800000000000000
+      internalID: -8771534617404406879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_45
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 70
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be74291fe0ffb3d0800000000000000
+      internalID: -3188565101445349709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 60
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af852df4dd1530b10800000000000000
+      internalID: 1946489474922993914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 56
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ef9abbbe3ae2330800000000000000
+      internalID: 3688065377724136996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac2c99c5cd178d70800000000000000
+      internalID: 9045231111925148838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 59
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceec355e57f99e60800000000000000
+      internalID: 7969673000137846473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_50
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 72
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515b83676c72adc20800000000000000
+      internalID: 3231939415932187925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_51
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 60
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae60a23d3c7a6a250800000000000000
+      internalID: 5955632016747267818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_52
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392d9590254009eb0800000000000000
+      internalID: -4715264059466198381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 61
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419cf5886524ba240800000000000000
+      internalID: 4804006366943365396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_54
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 70
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312108632a7e3ef30800000000000000
+      internalID: 4603777927987859987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 54
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe6b67d904837c90800000000000000
+      internalID: -7173244603667353861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_56
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 55
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5aaa98dad6a50a0800000000000000
+      internalID: -6892075687630690877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_57
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 55
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a007fb408f706e920800000000000000
+      internalID: 3019109362011435018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 54
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cae144d21575db0800000000000000
+      internalID: -4803281222709105533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_59
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 53
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041c998279c74ffe0800000000000000
+      internalID: -1156162215664303808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6881f6f3501d1b0800000000000000
+      internalID: -5633715888858823002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17154d97b1b1ed9c0800000000000000
+      internalID: -3900650422434246287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_62
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0d940833e5bfb00800000000000000
+      internalID: 863387328860246193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 27
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290bd4244cb9b3300800000000000000
+      internalID: 232951072967995538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94724535e83000060800000000000000
+      internalID: 6917532937459345225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 26
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf2af379185065c0800000000000000
+      internalID: -4224279584130322513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_66
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 11
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f024e384e5e237f0800000000000000
+      internalID: -634191827877748494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 27
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64da6997cf37301d0800000000000000
+      internalID: -3385734966643610298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_68
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 12
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e65bde39ec1b0a0800000000000000
+      internalID: -6867480822019690990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 28
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0462ea3de57f43ba0800000000000000
+      internalID: -6109986807784528320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_70
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 11
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088461022fc41d730800000000000000
+      internalID: 4022080545022691456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_71
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 29
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd36472413ec7860800000000000000
+      internalID: 7529142352754392562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_72
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 10
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cadccf9f2ad9e40800000000000000
+      internalID: 5664863100873845856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_73
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 11
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb0e12e04f35faf0800000000000000
+      internalID: -363314647029380153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_74
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 10
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a11011a1116a3f10800000000000000
+      internalID: 2250217692169507241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_75
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 9
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092c4b16ea7342a50800000000000000
+      internalID: 6495377784678171280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 8
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910e08085670927b0800000000000000
+      internalID: -5248655758194581479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_rocks_77
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 9
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143dc0f753c012d10800000000000000
+      internalID: 2098972325235708737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flying_rocks_0: 7119321108512604247
+      Flying_rocks_1: -8275790957581076941
+      Flying_rocks_10: 4675638220305402278
+      Flying_rocks_11: -9091935267256471752
+      Flying_rocks_12: 3257933173284704578
+      Flying_rocks_13: -7704759632678804037
+      Flying_rocks_14: 5134772217788424231
+      Flying_rocks_15: -555928357195721098
+      Flying_rocks_16: 5404354242028025189
+      Flying_rocks_17: 2325839020883928205
+      Flying_rocks_18: -6742324742243940450
+      Flying_rocks_19: 850361663377863021
+      Flying_rocks_2: 8382721584069857590
+      Flying_rocks_20: 7816840614169982036
+      Flying_rocks_21: -5009470107585262853
+      Flying_rocks_22: -2861866824674569792
+      Flying_rocks_23: 3873631339061227989
+      Flying_rocks_24: -8459997831094040091
+      Flying_rocks_25: -6445111805432861612
+      Flying_rocks_26: -8931593337293300221
+      Flying_rocks_27: -1020667362231362180
+      Flying_rocks_28: -1886964229480277559
+      Flying_rocks_29: -1559395393395777169
+      Flying_rocks_3: -1169281281350579699
+      Flying_rocks_30: 961380256269574809
+      Flying_rocks_31: 2427163657934430909
+      Flying_rocks_32: 5980123725644524029
+      Flying_rocks_33: 10182478311493203
+      Flying_rocks_34: 7057431415194223132
+      Flying_rocks_35: -7230771170171939152
+      Flying_rocks_36: 3090418112616673376
+      Flying_rocks_37: -8982815796312828287
+      Flying_rocks_38: 8720971400575608608
+      Flying_rocks_39: -646975205320519803
+      Flying_rocks_4: -3866004349190148492
+      Flying_rocks_40: 9156612276222848992
+      Flying_rocks_41: -1019427457295435748
+      Flying_rocks_42: -3807066146368718701
+      Flying_rocks_43: -8649435233239685050
+      Flying_rocks_44: -8771534617404406879
+      Flying_rocks_45: -3188565101445349709
+      Flying_rocks_46: 1946489474922993914
+      Flying_rocks_47: 3688065377724136996
+      Flying_rocks_48: 9045231111925148838
+      Flying_rocks_49: 7969673000137846473
+      Flying_rocks_5: -3691747214238917993
+      Flying_rocks_50: 3231939415932187925
+      Flying_rocks_51: 5955632016747267818
+      Flying_rocks_52: -4715264059466198381
+      Flying_rocks_53: 4804006366943365396
+      Flying_rocks_54: 4603777927987859987
+      Flying_rocks_55: -7173244603667353861
+      Flying_rocks_56: -6892075687630690877
+      Flying_rocks_57: 3019109362011435018
+      Flying_rocks_58: -4803281222709105533
+      Flying_rocks_59: -1156162215664303808
+      Flying_rocks_6: -8533904268142777642
+      Flying_rocks_60: -5633715888858823002
+      Flying_rocks_61: -3900650422434246287
+      Flying_rocks_62: 863387328860246193
+      Flying_rocks_63: 232951072967995538
+      Flying_rocks_64: 6917532937459345225
+      Flying_rocks_65: -4224279584130322513
+      Flying_rocks_66: -634191827877748494
+      Flying_rocks_67: -3385734966643610298
+      Flying_rocks_68: -6867480822019690990
+      Flying_rocks_69: -6109986807784528320
+      Flying_rocks_7: -4655423768908983009
+      Flying_rocks_70: 4022080545022691456
+      Flying_rocks_71: 7529142352754392562
+      Flying_rocks_72: 5664863100873845856
+      Flying_rocks_73: -363314647029380153
+      Flying_rocks_74: 2250217692169507241
+      Flying_rocks_75: 6495377784678171280
+      Flying_rocks_76: -5248655758194581479
+      Flying_rocks_77: 2098972325235708737
+      Flying_rocks_8: 7252924816315375121
+      Flying_rocks_9: 4233260441500011406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

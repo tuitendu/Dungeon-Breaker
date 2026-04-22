@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: dbd15c4ccae029b488035131a20903ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5241000654312560464
+    second: House_exterior_details_0
+  - first:
+      213: 6104915029376259059
+    second: House_exterior_details_1
+  - first:
+      213: 5065968436836636772
+    second: House_exterior_details_2
+  - first:
+      213: -6830640601752700516
+    second: House_exterior_details_3
+  - first:
+      213: -8927395180749533891
+    second: House_exterior_details_4
+  - first:
+      213: -2745230467706440827
+    second: House_exterior_details_5
+  - first:
+      213: 91151744998398098
+    second: House_exterior_details_6
+  - first:
+      213: -3802867865369195518
+    second: House_exterior_details_7
+  - first:
+      213: 1715023441090117431
+    second: House_exterior_details_8
+  - first:
+      213: -1329941411612654
+    second: House_exterior_details_9
+  - first:
+      213: -2872089198851409087
+    second: House_exterior_details_10
+  - first:
+      213: -4819254887060600815
+    second: House_exterior_details_11
+  - first:
+      213: -3932183904171896645
+    second: House_exterior_details_12
+  - first:
+      213: 760742433739000264
+    second: House_exterior_details_13
+  - first:
+      213: 4654155213341857250
+    second: House_exterior_details_14
+  - first:
+      213: 5335120761564141151
+    second: House_exterior_details_15
+  - first:
+      213: -8921557481165553222
+    second: House_exterior_details_16
+  - first:
+      213: -3270583739202509585
+    second: House_exterior_details_17
+  - first:
+      213: 4080867570824856371
+    second: House_exterior_details_18
+  - first:
+      213: 8261699634091246198
+    second: House_exterior_details_19
+  - first:
+      213: -1097731587745009660
+    second: House_exterior_details_20
+  - first:
+      213: 6271871226030154390
+    second: House_exterior_details_21
+  - first:
+      213: -8693730832943743351
+    second: House_exterior_details_22
+  - first:
+      213: -1064307638458967286
+    second: House_exterior_details_23
+  - first:
+      213: -5204436012523551956
+    second: House_exterior_details_24
+  - first:
+      213: -7774845074695043098
+    second: House_exterior_details_25
+  - first:
+      213: 5645530925999971315
+    second: House_exterior_details_26
+  - first:
+      213: 2278746398183099697
+    second: House_exterior_details_27
+  - first:
+      213: 546042311270818756
+    second: House_exterior_details_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: House_exterior_details_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 286
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b82c144ca93447b0800000000000000
+      internalID: -5241000654312560464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 304
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f35aedbfd309b450800000000000000
+      internalID: 6104915029376259059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 305
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4681df0e37fed4640800000000000000
+      internalID: 5065968436836636772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 288
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c997b202090b431a0800000000000000
+      internalID: -6830640601752700516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 289
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dc3e9e1658b1480800000000000000
+      internalID: -8927395180749533891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 273
+        width: 145
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58337c93f6bf6e9d0800000000000000
+      internalID: -2745230467706440827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 290
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29859457706d34100800000000000000
+      internalID: 91151744998398098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 181
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ccbec23df793bc0800000000000000
+      internalID: -3802867865369195518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 227
+        width: 110
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ff4ababbcfcc710800000000000000
+      internalID: 1715023441090117431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 210
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218b692ec664bfff0800000000000000
+      internalID: -1329941411612654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 183
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bb933371a4428d0800000000000000
+      internalID: -2872089198851409087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 177
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11800b6b6319e1db0800000000000000
+      internalID: -4819254887060600815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 180
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb05350a2931e69c0800000000000000
+      internalID: -3932183904171896645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 179
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c944908633be8a00800000000000000
+      internalID: 760742433739000264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 179
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e516ccf181e69040800000000000000
+      internalID: 4654155213341857250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 183
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5697d2e0182a0a40800000000000000
+      internalID: 5335120761564141151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 177
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab106e34db2403480800000000000000
+      internalID: -8921557481165553222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 37
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe46aa0ea6d8c92d0800000000000000
+      internalID: -3270583739202509585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 121
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3334d6e2f6722a830800000000000000
+      internalID: 4080867570824856371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 122
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672cbfa7b0477a270800000000000000
+      internalID: 8261699634091246198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 51
+        width: 126
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400bbbddfe214c0f0800000000000000
+      internalID: -1097731587745009660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 75
+        width: 126
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692658876a92a0750800000000000000
+      internalID: 6271871226030154390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 73
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ef6896ed9a95780800000000000000
+      internalID: -8693730832943743351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b1bed77d1da31f0800000000000000
+      internalID: -1064307638458967286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c238849550126c7b0800000000000000
+      internalID: -5204436012523551956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e74b13f8933a1490800000000000000
+      internalID: -7774845074695043098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbd5b44774f85e40800000000000000
+      internalID: 5645530925999971315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d87ec96cbbf9f10800000000000000
+      internalID: 2278746398183099697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_exterior_details_28
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 8
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c361abc69ee39700800000000000000
+      internalID: 546042311270818756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 292d25528d2113c40840777ccdd8c341
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      House_exterior_details_0: -5241000654312560464
+      House_exterior_details_1: 6104915029376259059
+      House_exterior_details_10: -2872089198851409087
+      House_exterior_details_11: -4819254887060600815
+      House_exterior_details_12: -3932183904171896645
+      House_exterior_details_13: 760742433739000264
+      House_exterior_details_14: 4654155213341857250
+      House_exterior_details_15: 5335120761564141151
+      House_exterior_details_16: -8921557481165553222
+      House_exterior_details_17: -3270583739202509585
+      House_exterior_details_18: 4080867570824856371
+      House_exterior_details_19: 8261699634091246198
+      House_exterior_details_2: 5065968436836636772
+      House_exterior_details_20: -1097731587745009660
+      House_exterior_details_21: 6271871226030154390
+      House_exterior_details_22: -8693730832943743351
+      House_exterior_details_23: -1064307638458967286
+      House_exterior_details_24: -5204436012523551956
+      House_exterior_details_25: -7774845074695043098
+      House_exterior_details_26: 5645530925999971315
+      House_exterior_details_27: 2278746398183099697
+      House_exterior_details_28: 546042311270818756
+      House_exterior_details_3: -6830640601752700516
+      House_exterior_details_4: -8927395180749533891
+      House_exterior_details_5: -2745230467706440827
+      House_exterior_details_6: 91151744998398098
+      House_exterior_details_7: -3802867865369195518
+      House_exterior_details_8: 1715023441090117431
+      House_exterior_details_9: -1329941411612654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

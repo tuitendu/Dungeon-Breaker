@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 4b06fb14b80e7104380b020e032d8ee1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8697835412122952159
+    second: Rat2_Idle_head_0
+  - first:
+      213: -3699271446296861578
+    second: Rat2_Idle_head_1
+  - first:
+      213: 8772932634754158594
+    second: Rat2_Idle_head_2
+  - first:
+      213: 6504791952435930950
+    second: Rat2_Idle_head_3
+  - first:
+      213: -3669279373764439962
+    second: Rat2_Idle_head_4
+  - first:
+      213: -4405539913199991176
+    second: Rat2_Idle_head_5
+  - first:
+      213: 6076686662623769948
+    second: Rat2_Idle_head_6
+  - first:
+      213: 3515162086488805770
+    second: Rat2_Idle_head_7
+  - first:
+      213: -4734531650342197153
+    second: Rat2_Idle_head_8
+  - first:
+      213: -4960057853368482939
+    second: Rat2_Idle_head_9
+  - first:
+      213: -2274173389764687161
+    second: Rat2_Idle_head_10
+  - first:
+      213: -2268424728699248562
+    second: Rat2_Idle_head_11
+  - first:
+      213: -8882334624571371445
+    second: Rat2_Idle_head_12
+  - first:
+      213: 133595867161941334
+    second: Rat2_Idle_head_13
+  - first:
+      213: -1932137962653743229
+    second: Rat2_Idle_head_14
+  - first:
+      213: 964727097524687816
+    second: Rat2_Idle_head_15
+  - first:
+      213: 5756643613656555958
+    second: Rat2_Idle_head_16
+  - first:
+      213: -3605277597028538551
+    second: Rat2_Idle_head_17
+  - first:
+      213: 1272125246687799060
+    second: Rat2_Idle_head_18
+  - first:
+      213: 1849596586080153205
+    second: Rat2_Idle_head_19
+  - first:
+      213: -1734107919986734784
+    second: Rat2_Idle_head_20
+  - first:
+      213: -540154367052946790
+    second: Rat2_Idle_head_21
+  - first:
+      213: -4708904367730239665
+    second: Rat2_Idle_head_22
+  - first:
+      213: -8837464888298534699
+    second: Rat2_Idle_head_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat2_Idle_head_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 433
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e199996c41b4780800000000000000
+      internalID: -8697835412122952159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 434
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674eabb183c89acc0800000000000000
+      internalID: -3699271446296861578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 435
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20014f410c7bfb970800000000000000
+      internalID: 8772932634754158594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 436
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64763ce11d9a54a50800000000000000
+      internalID: 6504791952435930950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_4
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 435
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6605a19a9d9141dc0800000000000000
+      internalID: -3669279373764439962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_5
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 434
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876c8ed5ac06cd2c0800000000000000
+      internalID: -4405539913199991176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 329
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c553b01f25ab45450800000000000000
+      internalID: 6076686662623769948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 330
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8116152b4d58c030800000000000000
+      internalID: 3515162086488805770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 331
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5862837c809b4eb0800000000000000
+      internalID: -4734531650342197153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 331
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583c59079a55a2bb0800000000000000
+      internalID: -4960057853368482939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 331
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca0e61e9538070e0800000000000000
+      internalID: -2274173389764687161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_11
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 330
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e406b265abfe480e0800000000000000
+      internalID: -2268424728699248562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 182
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40554638bb9bb480800000000000000
+      internalID: -8882334624571371445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 183
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655d5adbbb0aad100800000000000000
+      internalID: 133595867161941334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 184
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870af682caaf25e0800000000000000
+      internalID: -1932137962653743229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 185
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c317211f26636d00800000000000000
+      internalID: 964727097524687816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_16
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 184
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1258addd4b3ef40800000000000000
+      internalID: 5756643613656555958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 183
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947a078802b77fdc0800000000000000
+      internalID: -3605277597028538551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 54
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417e1aefb2f77a110800000000000000
+      internalID: 1272125246687799060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 55
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e2513ab461ba910800000000000000
+      internalID: 1849596586080153205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 56
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049cff2d8063fe7e0800000000000000
+      internalID: -1734107919986734784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_21
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 57
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92eeeb077cf088f0800000000000000
+      internalID: -540154367052946790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 56
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4757282d6c96aeb0800000000000000
+      internalID: -4708904367730239665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat2_Idle_head_23
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 55
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d88af9c1840b5580800000000000000
+      internalID: -8837464888298534699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat2_Idle_head_0: -8697835412122952159
+      Rat2_Idle_head_1: -3699271446296861578
+      Rat2_Idle_head_10: -2274173389764687161
+      Rat2_Idle_head_11: -2268424728699248562
+      Rat2_Idle_head_12: -8882334624571371445
+      Rat2_Idle_head_13: 133595867161941334
+      Rat2_Idle_head_14: -1932137962653743229
+      Rat2_Idle_head_15: 964727097524687816
+      Rat2_Idle_head_16: 5756643613656555958
+      Rat2_Idle_head_17: -3605277597028538551
+      Rat2_Idle_head_18: 1272125246687799060
+      Rat2_Idle_head_19: 1849596586080153205
+      Rat2_Idle_head_2: 8772932634754158594
+      Rat2_Idle_head_20: -1734107919986734784
+      Rat2_Idle_head_21: -540154367052946790
+      Rat2_Idle_head_22: -4708904367730239665
+      Rat2_Idle_head_23: -8837464888298534699
+      Rat2_Idle_head_3: 6504791952435930950
+      Rat2_Idle_head_4: -3669279373764439962
+      Rat2_Idle_head_5: -4405539913199991176
+      Rat2_Idle_head_6: 6076686662623769948
+      Rat2_Idle_head_7: 3515162086488805770
+      Rat2_Idle_head_8: -4734531650342197153
+      Rat2_Idle_head_9: -4960057853368482939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
